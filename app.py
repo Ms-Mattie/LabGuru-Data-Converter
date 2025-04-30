@@ -2,9 +2,10 @@ import streamlit as st
 import pandas as pd
 import re
 
-st.title("LIMS Data Converter")
+# Change the title to "LabGuru Data Converter"
+st.title("LabGuru Data Converter")
 
-# Add instructions under the title
+# Add updated instructions under the title
 st.markdown("""
     **This app converts data from the MASTER_Freezer Inventory Excel document into the correct format for the LabGuru Stock Upload template.**
 
@@ -45,12 +46,12 @@ if uploaded_file is not None:
 
     # Apply transformations across all rows explicitly
     df['Stock name *'] = df['Label']  # Map Label to Stock name *
-    df['Stock owner'] = df['Stock owner']  # Map Stock owner to Stock owner
-    df['Stored / frozen on'] = df['Stored_frozen_on']  # Map Stored_frozen_on to Stored / frozen on
-    df['Stored / frozen by'] = df['Stored_frozen_by']  # Map Stored_frozen_by to Stored / frozen by
+    df['Stock owner'] = stock_owner  # Use Stock owner input from the app
+    df['Stored / frozen on'] = stored_frozen_on  # Use Stored_frozen_on input from the app
+    df['Stored / frozen by'] = stored_frozen_by  # Use Stored_frozen_by input from the app
     df['Stock position'] = df['Position']  # Map Position to Stock position
-    df['Inventory collection *'] = df['Inventory Collection']  # Map Inventory Collection to Inventory collection *
-    df['Inventory item name'] = df['Inventory item name']  # Map Inventory item name to Inventory item name
+    df['Inventory collection *'] = inventory_collection  # Map Inventory Collection to Inventory collection *
+    df['Inventory item name'] = inventory_item_name  # Map Inventory item name to Inventory item name
     df['Box name'] = df['Box Label']  # Map Box Label to Box name
 
     # Set the blank values for Weight units, Weight remarks, and others as needed
@@ -93,4 +94,3 @@ if uploaded_file is not None:
         file_name="transformed_data.csv",
         mime="text/csv"
     )
-
