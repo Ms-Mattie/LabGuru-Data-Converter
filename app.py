@@ -44,87 +44,41 @@ if uploaded_file is not None:
     df['Stock ID'] = ""
 
     # Apply transformations across all rows explicitly
-    df['Stock name *'] = df['Label']  # Stock name = Label
+    df['Stock name *'] = df['Label']  # Map Label to Stock name *
+    df['Stock owner'] = df['Stock owner']  # Map Stock owner to Stock owner
+    df['Stored / frozen on'] = df['Stored_frozen_on']  # Map Stored_frozen_on to Stored / frozen on
+    df['Stored / frozen by'] = df['Stored_frozen_by']  # Map Stored_frozen_by to Stored / frozen by
+    df['Stock position'] = df['Position']  # Map Position to Stock position
+    df['Inventory collection *'] = df['Inventory Collection']  # Map Inventory Collection to Inventory collection *
+    df['Inventory item name'] = df['Inventory item name']  # Map Inventory item name to Inventory item name
+    df['Box name'] = df['Box Label']  # Map Box Label to Box name
 
-    df['Privacy'] = "Public"  # Privacy = Public
-
-    df['Stock type'] = "Tube"  # Stock type = Tube
-
-    df['Stock color'] = "gray"  # Stock color = gray
-
-    # Concatenate 'Diagnosis', 'Histology', and 'Pathologic_Stage' for **every row**
-    # Fill NaN values with an empty string to avoid issues with concatenation
-    df['Stock description'] = df['Diagnosis'].fillna('') + " " + df['Histology'].fillna('') + " " + df['Pathologic_Stage'].fillna('')
-
-    df['Stock concentration'] = stock_concentration  # User input for stock concentration
-
-    df['Concentration units'] = concentration_units  # User input for concentration units
-
-    df['Concentration remarks'] = concentration_remarks  # User input for concentration remarks
-
-    df['Stock volume'] = df['Approx. Volume (uL)']  # Stock volume = Approx. Volume (uL)
-
-    df['Volume units'] = volume_units  # Volume units = user input
-
-    df['Volume remarks'] = st.text_input("Volume Remarks (if applicable)")  # User input for volume remarks
-
-    # Set the blank values for Stock weight, Weight units, and Weight remarks
+    # Set the blank values for Weight units, Weight remarks, and others as needed
     df['Stock weight'] = ""
     df['Weight units'] = ""
     df['Weight remarks'] = ""
 
-    df['Stock units'] = stock_units  # User input for stock units
-
+    # Additional columns (blank values)
     df['Stock count'] = "1"  # Stock count = 1
-
     df['Stock lot'] = st.text_input("Stock Lot (if applicable)")  # User input for stock lot
-
-    # Set the blank values for Stock barcode, expiry date, and created at
     df['Stock barcode'] = ""
     df['Stock expiry date'] = ""
     df['Created at'] = ""
 
-    df['Box name'] = df['Box Label']  # Box name = Box Label
-
-    # Box dimensions and location will remain blank
-    df['Box dimensions - # rows'] = ""
-    df['Box dimensions - # columns'] = ""
-    df['Box location in Rack - Cells'] = ""
-
-    # Retain the original position from the input data
-    # If the position is not provided in the input data, we can generate positions based on the row number
-    if 'Position' in df.columns:
-        df['Stock position'] = df['Position']
-    else:
-        df['Stock position'] = df.index + 1  # Default to row index (1-based)
-
-    # Leave storage location and other fields blank as required
-    df['Storage location'] = ""
-    df['Inventory collection *'] = inventory_collection
-    df['Inventory item name'] = inventory_item_name
-    df['Inventory item sysID'] = ""
-
-    # **Column Filtering**: Ensure all LIMS-required columns are included, even if empty
+    # Ensure that the output includes the right columns for LabGuru
     output_columns = [
-        'Stock ID', 'Stock name *', 'Privacy', 'Stock type', 'Stock color', 
-        'Stock description', 'Stock concentration', 'Concentration units', 
-        'Concentration remarks', 'Stock volume', 'Volume units', 'Volume remarks', 
-        'Stock weight', 'Weight units', 'Weight remarks', 'Stock units', 
-        'Stock count', 'Stock lot', 'Stock barcode', 'Stock expiry date', 
-        'Created at', 'Box name', 'Box dimensions - # rows', 'Box dimensions - # columns', 
-        'Box location in Rack - Cells', 'Stock position', 'Storage location', 
+        'Stock ID', 'Stock name *', 'Privacy', 'Stock type', 'Stock color',
+        'Stock description', 'Stock concentration', 'Concentration units',
+        'Concentration remarks', 'Stock volume', 'Volume units', 'Volume remarks',
+        'Stock weight', 'Weight units', 'Weight remarks', 'Stock units',
+        'Stock count', 'Stock lot', 'Stock barcode', 'Stock expiry date',
+        'Created at', 'Box name', 'Box dimensions - # rows', 'Box dimensions - # columns',
+        'Box location in Rack - Cells', 'Stock position', 'Storage location',
         'Inventory collection *', 'Inventory item name', 'Inventory item sysID'
     ]
 
-    # Ensure the column order is correct, and remove any additional columns
+    # Ensure that the columns are in the correct order
     df_output = df[output_columns]
-
-    # **Fix Encoding Issues**: Explicitly replace any invalid volume units (like ÅµL or ÂµL)
-    # Now we replace both ÅµL and any malformed unit
-    df_output['Volume units'] = df_output['Volume units'].apply(lambda x: re.sub(r'[^\x00-\x7F]+', 'µL', str(x)) if isinstance(x, str) else x)
-    
-    # Ensure there's only one "L" at the end of "µL"
-    df_output['Volume units'] = df_output['Volume units'].str.replace('µLL', 'µL', regex=False)
 
     # Display the transformed and filtered data
     st.write("Transformed Data:")
@@ -139,3 +93,4 @@ if uploaded_file is not None:
         file_name="transformed_data.csv",
         mime="text/csv"
     )
+
