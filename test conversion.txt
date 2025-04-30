@@ -1,0 +1,5425 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 660,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Hi, my name is Genieve."
+    } ]
+  }, {
+    "tStartMs": 2400,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Welcome, yogi."
+    } ]
+  }, {
+    "tStartMs": 3540,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "I'm so glad you're here."
+    } ]
+  }, {
+    "tStartMs": 6690,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Welcome, yogis."
+    } ]
+  }, {
+    "tStartMs": 8370,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "I invite you to embrace\nthe opportunity of power"
+    } ]
+  }, {
+    "tStartMs": 12960,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "on your mat today."
+    } ]
+  }, {
+    "tStartMs": 14520,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Find your way into\nChild's Pose position--"
+    } ]
+  }, {
+    "tStartMs": 17490,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "actually, find your way\nto a Tabletop position."
+    } ]
+  }, {
+    "tStartMs": 19920,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "[MUSIC PLAYING]"
+    } ]
+  }, {
+    "tStartMs": 21390,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "And let's get into the\nbreath, Child's Pose."
+    } ]
+  }, {
+    "tStartMs": 26130,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Take your knees wide, settle\nyour glutes over your heels,"
+    } ]
+  }, {
+    "tStartMs": 29910,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and extend your arms."
+    } ]
+  }, {
+    "tStartMs": 33270,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "Settle in, bring awareness\nto this space and to you"
+    } ]
+  }, {
+    "tStartMs": 40170,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "on your mat."
+    } ]
+  }, {
+    "tStartMs": 43572,
+    "dDurationMs": 6278,
+    "segs": [ {
+      "utf8": "And then bring full\nawareness to your breath."
+    } ]
+  }, {
+    "tStartMs": 49850,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Take a deep inhale\nin through your nose,"
+    } ]
+  }, {
+    "tStartMs": 53510,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "then exhale out\nthrough your mouth."
+    } ]
+  }, {
+    "tStartMs": 58020,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "One more time, take a deep\ninhale in through your nose,"
+    } ]
+  }, {
+    "tStartMs": 62330,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and exhale out\nthrough your mouth."
+    } ]
+  }, {
+    "tStartMs": 67400,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "This time, tighten\nyour throat muscles."
+    } ]
+  }, {
+    "tStartMs": 70940,
+    "dDurationMs": 6510,
+    "segs": [ {
+      "utf8": "Take a deep inhale, keep\nyour throat constricted,"
+    } ]
+  }, {
+    "tStartMs": 77450,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and exhale out\nthrough your nose."
+    } ]
+  }, {
+    "tStartMs": 81610,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "One more time."
+    } ]
+  }, {
+    "tStartMs": 82450,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "Deep inhale, feel your lungs\nexpand, complete exhale--"
+    } ]
+  }, {
+    "tStartMs": 88170,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "navel to spine, settle your\nglutes a little bit deeper."
+    } ]
+  }, {
+    "tStartMs": 92710,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "This is your Ujjayi\nPranayama breath."
+    } ]
+  }, {
+    "tStartMs": 95045,
+    "dDurationMs": 2835,
+    "segs": [ {
+      "utf8": "This breath keeps you\nwarm throughout practice,"
+    } ]
+  }, {
+    "tStartMs": 97880,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "and that raspy sound\nallows for focus"
+    } ]
+  }, {
+    "tStartMs": 101850,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "and ignites your\nrespiratory system."
+    } ]
+  }, {
+    "tStartMs": 105790,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "On your next inhale, come\ninto a Tabletop position"
+    } ]
+  }, {
+    "tStartMs": 108700,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "and extend your right\nleg out to the side."
+    } ]
+  }, {
+    "tStartMs": 111650,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Bring your foot to\na parallel position."
+    } ]
+  }, {
+    "tStartMs": 114690,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Take an inhale, exhale, a\nvariation of Child's Pose."
+    } ]
+  }, {
+    "tStartMs": 118930,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Settle your glutes back, extend\nyour arms, drop your head,"
+    } ]
+  }, {
+    "tStartMs": 123040,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "and nestle your torso\ndown to your mat."
+    } ]
+  }, {
+    "tStartMs": 126850,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "Feel the stretch in\nthe back of your legs."
+    } ]
+  }, {
+    "tStartMs": 131240,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "Take one more breath."
+    } ]
+  }, {
+    "tStartMs": 135460,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "And inhale, Tabletop position."
+    } ]
+  }, {
+    "tStartMs": 137380,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Bring your right knee\nto meet your right--"
+    } ]
+  }, {
+    "tStartMs": 139620,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "or left, excuse me."
+    } ]
+  }, {
+    "tStartMs": 141320,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "And then extend\nyour left leg out,"
+    } ]
+  }, {
+    "tStartMs": 143940,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "bring your foot to parallel."
+    } ]
+  }, {
+    "tStartMs": 145740,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "Once again, inhale,\nshoot your chest forward."
+    } ]
+  }, {
+    "tStartMs": 149080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Exhale, send your glutes back."
+    } ]
+  }, {
+    "tStartMs": 151840,
+    "dDurationMs": 4105,
+    "segs": [ {
+      "utf8": "Extend your arms,\nnestle your torso down."
+    } ]
+  }, {
+    "tStartMs": 155945,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Breathe."
+    } ]
+  }, {
+    "tStartMs": 159070,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Bring that exhale to\nthe back of your legs."
+    } ]
+  }, {
+    "tStartMs": 162810,
+    "dDurationMs": 1555,
+    "segs": [ {
+      "utf8": "Feel and embrace the stretch."
+    } ]
+  }, {
+    "tStartMs": 167520,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "Inhale, come back to\na Tabletop position,"
+    } ]
+  }, {
+    "tStartMs": 171690,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "then exhale,\nDownward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 174870,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Curl your toes, reach your\nsitz bones up towards the sky,"
+    } ]
+  }, {
+    "tStartMs": 178200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and breathe."
+    } ]
+  }, {
+    "tStartMs": 181320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Start to draw your heels down,\nsend your thighs back, and pull"
+    } ]
+  }, {
+    "tStartMs": 186000,
+    "dDurationMs": 7190,
+    "segs": [ {
+      "utf8": "your lower ribs in,\npress through your palms."
+    } ]
+  }, {
+    "tStartMs": 193190,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Draw your heels down\na little further."
+    } ]
+  }, {
+    "tStartMs": 197800,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "And then inhale, gaze forward."
+    } ]
+  }, {
+    "tStartMs": 201740,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Exhale, Ragdoll Pose,\ntiptoe your feet directly"
+    } ]
+  }, {
+    "tStartMs": 204470,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "behind your hands."
+    } ]
+  }, {
+    "tStartMs": 207210,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Grab opposite elbows."
+    } ]
+  }, {
+    "tStartMs": 210240,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Now, take a slight\nbend in your knees,"
+    } ]
+  }, {
+    "tStartMs": 213980,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "lean your weight forward\nto deepen in the stretch."
+    } ]
+  }, {
+    "tStartMs": 220880,
+    "dDurationMs": 2562,
+    "segs": [ {
+      "utf8": "Feel the stretch from\nyour glutes all the way"
+    } ]
+  }, {
+    "tStartMs": 223442,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "through your calves."
+    } ]
+  }, {
+    "tStartMs": 228390,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Then release your fingertips\nfor Ragdoll Twist."
+    } ]
+  }, {
+    "tStartMs": 231210,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "Ragdoll Twist to your left."
+    } ]
+  }, {
+    "tStartMs": 232750,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Bend your right knee, put your\nright fingertips onto your mat,"
+    } ]
+  }, {
+    "tStartMs": 235960,
+    "dDurationMs": 2774,
+    "segs": [ {
+      "utf8": "lift your left arm straight up."
+    } ]
+  }, {
+    "tStartMs": 238734,
+    "dDurationMs": 1816,
+    "segs": [ {
+      "utf8": "That's it."
+    } ]
+  }, {
+    "tStartMs": 240550,
+    "dDurationMs": 4175,
+    "segs": [ {
+      "utf8": "Beautiful, bring your weight\nforward and open your chest."
+    } ]
+  }, {
+    "tStartMs": 248040,
+    "dDurationMs": 6810,
+    "segs": [ {
+      "utf8": "Inhale, reach, exhale, Forward\nFold down toward your mat."
+    } ]
+  }, {
+    "tStartMs": 254850,
+    "dDurationMs": 2739,
+    "segs": [ {
+      "utf8": "Inhale, Ragdoll\nTwist to your left."
+    } ]
+  }, {
+    "tStartMs": 257589,
+    "dDurationMs": 4761,
+    "segs": [ {
+      "utf8": "Bend your left knee, lift\nyour right arm straight up."
+    } ]
+  }, {
+    "tStartMs": 262350,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Awesome, bring your weight\nforward towards your toes."
+    } ]
+  }, {
+    "tStartMs": 265770,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Lengthen, press\nthrough your palms."
+    } ]
+  }, {
+    "tStartMs": 268970,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Inhale, open up."
+    } ]
+  }, {
+    "tStartMs": 271470,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Exhale, Forward Fold, release."
+    } ]
+  }, {
+    "tStartMs": 275190,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Bring your big toes\nto touch and take"
+    } ]
+  }, {
+    "tStartMs": 277080,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "a slight bend in your\nknees, then slowly"
+    } ]
+  }, {
+    "tStartMs": 279510,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "evolve into a standing position."
+    } ]
+  }, {
+    "tStartMs": 282880,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "Roll your shoulders back\nand open your chest."
+    } ]
+  }, {
+    "tStartMs": 287310,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Bring your hands\nto heart center."
+    } ]
+  }, {
+    "tStartMs": 291750,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Today, I offer you the\npower of opportunity."
+    } ]
+  }, {
+    "tStartMs": 295860,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "Take a deep inhale, fill\nwith your intention."
+    } ]
+  }, {
+    "tStartMs": 300410,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Complete exhale, to share."
+    } ]
+  }, {
+    "tStartMs": 305330,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Your eyes are closed, gently\nopen them, and inhale,"
+    } ]
+  }, {
+    "tStartMs": 307490,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Mountain Pose."
+    } ]
+  }, {
+    "tStartMs": 308240,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Lift your chest and arms\nstraight up, reach up, breathe."
+    } ]
+  }, {
+    "tStartMs": 312870,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Press through the four\ncorners of your feet,"
+    } ]
+  }, {
+    "tStartMs": 315980,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "then start to\nstrengthen your legs."
+    } ]
+  }, {
+    "tStartMs": 318900,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Pull your kneecaps up\ninto your quadriceps,"
+    } ]
+  }, {
+    "tStartMs": 322070,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "then send your quads\ntowards the back wall."
+    } ]
+  }, {
+    "tStartMs": 325730,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Bring your pelvis to\na neutral position,"
+    } ]
+  }, {
+    "tStartMs": 328640,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "then start to lengthen your\ntorso out of your hips."
+    } ]
+  }, {
+    "tStartMs": 332200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Turn your pinkies toward\nthe midline of your body"
+    } ]
+  }, {
+    "tStartMs": 335000,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "to open up your shoulders and\nlengthen your cervical spine."
+    } ]
+  }, {
+    "tStartMs": 338340,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Take an inhale,\nreach high, exhale,"
+    } ]
+  }, {
+    "tStartMs": 341360,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "Forward Fold down\ntoward your mat."
+    } ]
+  }, {
+    "tStartMs": 345180,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Inhale Halfway, flat back."
+    } ]
+  }, {
+    "tStartMs": 347720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Lean forward, gaze forward."
+    } ]
+  }, {
+    "tStartMs": 350360,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Exhale, Plank position, plant\nyour hands and step back."
+    } ]
+  }, {
+    "tStartMs": 354860,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "So, check in right away."
+    } ]
+  }, {
+    "tStartMs": 356750,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Check that your shoulders are\nstacked over your wrists-- so"
+    } ]
+  }, {
+    "tStartMs": 359650,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "lean forward, there we go."
+    } ]
+  }, {
+    "tStartMs": 361870,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Start to dome out\nyour thoracic spine."
+    } ]
+  }, {
+    "tStartMs": 364010,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Pull your navel in and take\nyour hips shoulder height,"
+    } ]
+  }, {
+    "tStartMs": 367160,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "strengthen your legs."
+    } ]
+  }, {
+    "tStartMs": 368860,
+    "dDurationMs": 2383,
+    "segs": [ {
+      "utf8": "Hold here for four."
+    } ]
+  }, {
+    "tStartMs": 371243,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Straight line in your body--"
+    } ]
+  }, {
+    "tStartMs": 372410,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "3, 2, and 1."
+    } ]
+  }, {
+    "tStartMs": 376480,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Downward Facing Dog--\npush away, draw down."
+    } ]
+  }, {
+    "tStartMs": 379280,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "This is your Sun\nA. Time to flow."
+    } ]
+  }, {
+    "tStartMs": 384070,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Inhale, gaze forward."
+    } ]
+  }, {
+    "tStartMs": 385840,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Exhale, travel to\nthe top of your mat."
+    } ]
+  }, {
+    "tStartMs": 388970,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Inhale Halfway,\nexhale, fold, release."
+    } ]
+  }, {
+    "tStartMs": 393560,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Inhale, Mountain Pose, reach up."
+    } ]
+  }, {
+    "tStartMs": 396820,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "Exhale, Forward Fold\ndown toward your mat."
+    } ]
+  }, {
+    "tStartMs": 400790,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Inhale Halfway,\nexhale, Plank position."
+    } ]
+  }, {
+    "tStartMs": 405310,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Take an inhale in your Plank."
+    } ]
+  }, {
+    "tStartMs": 408550,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Exhale-- Knees, chest, chin."
+    } ]
+  }, {
+    "tStartMs": 411840,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "So plant your knees down, bring\nyour chest toward your mat."
+    } ]
+  }, {
+    "tStartMs": 415670,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Keep your glutes high, hug\nyour elbows out your ribs."
+    } ]
+  }, {
+    "tStartMs": 420290,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And then inhale, Cobra Pose."
+    } ]
+  }, {
+    "tStartMs": 422810,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Press into all 10\ntoes, resist your chest"
+    } ]
+  }, {
+    "tStartMs": 426520,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "through your shoulders."
+    } ]
+  }, {
+    "tStartMs": 428930,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "Use your lower back,\ngaze up, inhale, rise up."
+    } ]
+  }, {
+    "tStartMs": 434320,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 438820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Last round of your Sun A. Make\nit amazing, make it wonderful."
+    } ]
+  }, {
+    "tStartMs": 441820,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "Inhale, gaze forward, exhale,\ntravel to the top of your mat."
+    } ]
+  }, {
+    "tStartMs": 447320,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Inhale Halfway, exhale, fold."
+    } ]
+  }, {
+    "tStartMs": 451910,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "Inhale, Mountain Pose."
+    } ]
+  }, {
+    "tStartMs": 452890,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Make it your tallest Mountain."
+    } ]
+  }, {
+    "tStartMs": 455560,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Exhale, Forward Fold\ndown toward your mat."
+    } ]
+  }, {
+    "tStartMs": 459140,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Inhale Halfway, exhale, High\nto Low Chaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 464140,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Plant your hands, step back."
+    } ]
+  }, {
+    "tStartMs": 466520,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "Lower down and hold here."
+    } ]
+  }, {
+    "tStartMs": 467890,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Hold for 4, for 3--"
+    } ]
+  }, {
+    "tStartMs": 470680,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "legs strong-- 2, and 1."
+    } ]
+  }, {
+    "tStartMs": 473260,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 474820,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Press through your\nfeet, lift your chest."
+    } ]
+  }, {
+    "tStartMs": 477770,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "Press deeper into your mat\nto keep your shoulders away."
+    } ]
+  }, {
+    "tStartMs": 480820,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Gaze up, inhale, come up."
+    } ]
+  }, {
+    "tStartMs": 483610,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 487920,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "How's everyone\ndoing, everyone good?"
+    } ]
+  }, {
+    "tStartMs": 490410,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "Beautiful."
+    } ]
+  }, {
+    "tStartMs": 490920,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Time for Sun B.\nInhale, gaze forward,"
+    } ]
+  }, {
+    "tStartMs": 494850,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "exhale, travel to\nthe top of your mat."
+    } ]
+  }, {
+    "tStartMs": 498220,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Inhale Halfway,\nexhale, fold, release."
+    } ]
+  }, {
+    "tStartMs": 502750,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Inhale, Chair Pose,\nsit low and reach high."
+    } ]
+  }, {
+    "tStartMs": 507040,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Find your breath."
+    } ]
+  }, {
+    "tStartMs": 508940,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "So bring in opportunity\non where you"
+    } ]
+  }, {
+    "tStartMs": 511440,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "can build a little more strength\nin the lower half of your body."
+    } ]
+  }, {
+    "tStartMs": 515679,
+    "dDurationMs": 2331,
+    "segs": [ {
+      "utf8": "You can start by\nwiggling your toes"
+    } ]
+  }, {
+    "tStartMs": 518010,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "and taking your weight into your\nheels, send both of your shins"
+    } ]
+  }, {
+    "tStartMs": 522630,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "towards the back of your\nmat to bring your glutes"
+    } ]
+  }, {
+    "tStartMs": 524910,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "down a little bit deeper."
+    } ]
+  }, {
+    "tStartMs": 527890,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Pull your lower ribs into your\ntorso and, at the same time,"
+    } ]
+  }, {
+    "tStartMs": 531370,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "lift your chest."
+    } ]
+  }, {
+    "tStartMs": 534200,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Reach through your\nfingertips, sit a foot deeper."
+    } ]
+  }, {
+    "tStartMs": 537040,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Inhale, exhale-- Forward\nFold down toward your mat."
+    } ]
+  }, {
+    "tStartMs": 542260,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "Inhale Halfway, exhale-- High\nto Low Chaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 548530,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 551710,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 555280,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Inhale your right leg high, flex\nyour foot, square your hips."
+    } ]
+  }, {
+    "tStartMs": 559180,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Exhale, Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 560380,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Bring your right foot\nin between your hands."
+    } ]
+  }, {
+    "tStartMs": 563660,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Bring your fingertips\nonto your mat"
+    } ]
+  }, {
+    "tStartMs": 565510,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "and start to lengthen your\nlumbar through your crown."
+    } ]
+  }, {
+    "tStartMs": 569770,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Stay low, then inhale,\nWarrior II, windmill open."
+    } ]
+  }, {
+    "tStartMs": 574150,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Yes, to the side of your mat."
+    } ]
+  }, {
+    "tStartMs": 576940,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Now, immediately\ntake a wide stance."
+    } ]
+  }, {
+    "tStartMs": 578980,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Check for heel-to-arch\nalignment and pigeon"
+    } ]
+  }, {
+    "tStartMs": 581640,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "toe your left toes toward\nthe midline of your body."
+    } ]
+  }, {
+    "tStartMs": 584710,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Come down a little deeper\nto bring your hamstring"
+    } ]
+  }, {
+    "tStartMs": 588190,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "and your quadricep\nparallel over your mat."
+    } ]
+  }, {
+    "tStartMs": 592280,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Lift your torso up,\nlift your chest,"
+    } ]
+  }, {
+    "tStartMs": 594400,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "and extend your arms out."
+    } ]
+  }, {
+    "tStartMs": 595970,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Gaze over to the right."
+    } ]
+  }, {
+    "tStartMs": 598670,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Take a deep inhale,\nfill your body."
+    } ]
+  }, {
+    "tStartMs": 601330,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Exhale, Extended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 602830,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Find the length, reach,\nand then release."
+    } ]
+  }, {
+    "tStartMs": 605600,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Bring your right arm onto\nyour thigh or your elbow"
+    } ]
+  }, {
+    "tStartMs": 607930,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "at your knee."
+    } ]
+  }, {
+    "tStartMs": 609670,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Continue to settle your\nhips deeper toward your mat."
+    } ]
+  }, {
+    "tStartMs": 612740,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Find your breath."
+    } ]
+  }, {
+    "tStartMs": 614930,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Now, stamp your entire left\nfoot in towards your mat,"
+    } ]
+  }, {
+    "tStartMs": 618160,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "and start to send\nyour left thigh back."
+    } ]
+  }, {
+    "tStartMs": 622490,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "Curl your right buttock\nunder to lengthen your spine."
+    } ]
+  }, {
+    "tStartMs": 627520,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "Resist your elbow and\nknee to open your chest."
+    } ]
+  }, {
+    "tStartMs": 631550,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Reach high, lengthen low."
+    } ]
+  }, {
+    "tStartMs": 634690,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Keep your knee right above\nyour ankle, then inhale,"
+    } ]
+  }, {
+    "tStartMs": 637720,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Reverse Warrior."
+    } ]
+  }, {
+    "tStartMs": 639860,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Lengthen your right\narm up and over."
+    } ]
+  }, {
+    "tStartMs": 643030,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "Square your hips,\nsquare your chest."
+    } ]
+  }, {
+    "tStartMs": 647000,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Find length in your\nright side body."
+    } ]
+  }, {
+    "tStartMs": 649130,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Inhale, reach higher."
+    } ]
+  }, {
+    "tStartMs": 651440,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Exhale, High to Low\nChaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 655750,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 659170,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 662970,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "Inhale your left leg high, flex\nyour foot, square your hips."
+    } ]
+  }, {
+    "tStartMs": 667020,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Exhale, Low Lunge, pull your\nfoot in between your hands."
+    } ]
+  }, {
+    "tStartMs": 671660,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Press into the pads\nof your fingers."
+    } ]
+  }, {
+    "tStartMs": 674520,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "Get tall through your spine."
+    } ]
+  }, {
+    "tStartMs": 677260,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II, windmill\nopen, find your breathe."
+    } ]
+  }, {
+    "tStartMs": 681450,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Take your legs wide."
+    } ]
+  }, {
+    "tStartMs": 685520,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Find heel-to-arch\nalignment, settle low."
+    } ]
+  }, {
+    "tStartMs": 691200,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Track your knee over\nyour ankle, in line"
+    } ]
+  }, {
+    "tStartMs": 693350,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "with your second-to-third toe."
+    } ]
+  }, {
+    "tStartMs": 696200,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "Lift your torso up\nand out, reach out."
+    } ]
+  }, {
+    "tStartMs": 700740,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Sit a foot deeper, team, yup."
+    } ]
+  }, {
+    "tStartMs": 702750,
+    "dDurationMs": 1195,
+    "segs": [ {
+      "utf8": "Then gaze over to your left."
+    } ]
+  }, {
+    "tStartMs": 706580,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "Take an inhale."
+    } ]
+  }, {
+    "tStartMs": 708583,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Exhale, Extended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 709750,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Reach, reach, reach, and\nthen release your left arm"
+    } ]
+  }, {
+    "tStartMs": 714190,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "onto your thigh or\nelbow at your knee."
+    } ]
+  }, {
+    "tStartMs": 716840,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Find your breath."
+    } ]
+  }, {
+    "tStartMs": 718970,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "And stamp your entire right\nfoot in toward your mat."
+    } ]
+  }, {
+    "tStartMs": 722630,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Send your right thigh back,\ncurl your left buttock under"
+    } ]
+  }, {
+    "tStartMs": 726310,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "to lengthen your spine."
+    } ]
+  }, {
+    "tStartMs": 728770,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Resist your elbow and\nknee to open your chest,"
+    } ]
+  }, {
+    "tStartMs": 732060,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "and lengthen through\nyour right hand."
+    } ]
+  }, {
+    "tStartMs": 734530,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Reach up, reach down."
+    } ]
+  }, {
+    "tStartMs": 738840,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Keep your knee\nright where it is."
+    } ]
+  }, {
+    "tStartMs": 741440,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "Inhale, Reverse Warrior, send\nyour left arm straight up."
+    } ]
+  }, {
+    "tStartMs": 746830,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Square your hips,\nsquare your chest."
+    } ]
+  }, {
+    "tStartMs": 750390,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Lengthen through your left side."
+    } ]
+  }, {
+    "tStartMs": 752870,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "Take another inhale,\nlengthen, exhale,"
+    } ]
+  }, {
+    "tStartMs": 755680,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "High to Low\nChaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 759010,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "Inhale Upward Facing dog\nexhale Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 769200,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "It's time to flow."
+    } ]
+  }, {
+    "tStartMs": 770430,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Inhale, gaze forward."
+    } ]
+  }, {
+    "tStartMs": 772380,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "Exhale, travel to\nthe top of your mat."
+    } ]
+  }, {
+    "tStartMs": 775600,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Inhale Halfway,\nexhale, fold release."
+    } ]
+  }, {
+    "tStartMs": 780340,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Inhale, Chair Pose."
+    } ]
+  }, {
+    "tStartMs": 783590,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Exhale, Forward Fold\ndown to your mat."
+    } ]
+  }, {
+    "tStartMs": 787110,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "Inhale Halfway, exhale High\nto Low Chaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 793340,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog,\nexhale Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 799760,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "Inhale your right leg\nhigh, exhale Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 805660,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II."
+    } ]
+  }, {
+    "tStartMs": 809080,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Exhale, Extended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 811560,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "Beautiful, Anna Rose."
+    } ]
+  }, {
+    "tStartMs": 812990,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Inhale, Reverse Warrior."
+    } ]
+  }, {
+    "tStartMs": 815860,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Exhale, High to Low\nChaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 819730,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 823000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 825100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Left side, inhale\nyour left leg high."
+    } ]
+  }, {
+    "tStartMs": 828100,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Exhale, Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 831040,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II."
+    } ]
+  }, {
+    "tStartMs": 833800,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Exhale, Extended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 837540,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Inhale, Reverse Warrior."
+    } ]
+  }, {
+    "tStartMs": 841060,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Exhale, High to Low\nChaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 844930,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 848110,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 851470,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "One more flow before you add on."
+    } ]
+  }, {
+    "tStartMs": 855160,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Inhale, gaze forward."
+    } ]
+  }, {
+    "tStartMs": 857080,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Exhale, travel to\nthe top of your mat."
+    } ]
+  }, {
+    "tStartMs": 860030,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Inhale Halfway."
+    } ]
+  }, {
+    "tStartMs": 862240,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Exhale, fold release."
+    } ]
+  }, {
+    "tStartMs": 864740,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Inhale, Chair Pose,\nsettle low, reach high."
+    } ]
+  }, {
+    "tStartMs": 868420,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Exhale, Forward Fold,\nrelease down toward your mat."
+    } ]
+  }, {
+    "tStartMs": 872090,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Inhale Halfway, exhale\nhigh-to-low Chaturanga"
+    } ]
+  }, {
+    "tStartMs": 875670,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Dandasana."
+    } ]
+  }, {
+    "tStartMs": 877840,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 881140,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 884560,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Inhale your right leg high."
+    } ]
+  }, {
+    "tStartMs": 887470,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Exhale, Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 890380,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II."
+    } ]
+  }, {
+    "tStartMs": 893740,
+    "dDurationMs": 3756,
+    "segs": [ {
+      "utf8": "Exhale, Extended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 897496,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Inhale, Reverse Warrior."
+    } ]
+  }, {
+    "tStartMs": 901000,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Exhale High to Low\nChaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 905230,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 908560,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 912070,
+    "dDurationMs": 1884,
+    "segs": [ {
+      "utf8": "Inhale your left leg high."
+    } ]
+  }, {
+    "tStartMs": 913954,
+    "dDurationMs": 1656,
+    "segs": [ {
+      "utf8": "Woo!"
+    } ]
+  }, {
+    "tStartMs": 915610,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Exhale, Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 918820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Inhale Warrior II."
+    } ]
+  }, {
+    "tStartMs": 921820,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Exhale, Extended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 925540,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "Inhale, Reverse Warrior."
+    } ]
+  }, {
+    "tStartMs": 929560,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Exhale, High to Low\nChaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 933850,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 937240,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 939670,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Take a breath."
+    } ]
+  }, {
+    "tStartMs": 941740,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Great job, yogis."
+    } ]
+  }, {
+    "tStartMs": 942830,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "How's everyone feeling?"
+    } ]
+  }, {
+    "tStartMs": 943950,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "Good?"
+    } ]
+  }, {
+    "tStartMs": 945340,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Two rounds of breath,\ntake a deep inhale."
+    } ]
+  }, {
+    "tStartMs": 949030,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Open up, exhale, let it go."
+    } ]
+  }, {
+    "tStartMs": 951830,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "One more time."
+    } ]
+  }, {
+    "tStartMs": 952810,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "Deep inhale, and\nopen mouth, exhale."
+    } ]
+  }, {
+    "tStartMs": 959020,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "This round, with\na few variations."
+    } ]
+  }, {
+    "tStartMs": 961480,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Inhale, gaze forward,\nexhale, skip, hop,"
+    } ]
+  }, {
+    "tStartMs": 964240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "fly to the top of your mat."
+    } ]
+  }, {
+    "tStartMs": 966560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Inhale Halfway,\nexhale, fold, release."
+    } ]
+  }, {
+    "tStartMs": 970960,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "Inhale, Chair Pose, sit low."
+    } ]
+  }, {
+    "tStartMs": 975940,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Exhale, Crow Pose,\nplant your hands down."
+    } ]
+  }, {
+    "tStartMs": 979300,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Bring your knees at your\ntriceps, take flight."
+    } ]
+  }, {
+    "tStartMs": 983410,
+    "dDurationMs": 7810,
+    "segs": [ {
+      "utf8": "Hold and breathe\nfor 4, for 3, 2, 1."
+    } ]
+  }, {
+    "tStartMs": 991220,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Step or jump back."
+    } ]
+  }, {
+    "tStartMs": 992560,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "Plank position to your High\nto Low Chaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 998580,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Awesome, Manuel."
+    } ]
+  }, {
+    "tStartMs": 999670,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog,\nexhale Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 1005280,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "Inhale your right leg\nhigh, exhale Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 1011010,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II."
+    } ]
+  }, {
+    "tStartMs": 1014470,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Listen up for the change."
+    } ]
+  }, {
+    "tStartMs": 1016560,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Exhale, Half Moon."
+    } ]
+  }, {
+    "tStartMs": 1018740,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "So lean your torso\nover your right thigh,"
+    } ]
+  }, {
+    "tStartMs": 1022410,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "step your left foot\na little closer in"
+    } ]
+  }, {
+    "tStartMs": 1025470,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "and place your hand about a\nfoot away from your pinky toe."
+    } ]
+  }, {
+    "tStartMs": 1029910,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Launch your leg up and breathe."
+    } ]
+  }, {
+    "tStartMs": 1033240,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Start to square your hips."
+    } ]
+  }, {
+    "tStartMs": 1036390,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Extend and flex your toes."
+    } ]
+  }, {
+    "tStartMs": 1039290,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Keep your feet in\nperipheral view."
+    } ]
+  }, {
+    "tStartMs": 1042650,
+    "dDurationMs": 7570,
+    "segs": [ {
+      "utf8": "Hold here for 4,\nfor 3, for 2, and 1."
+    } ]
+  }, {
+    "tStartMs": 1050220,
+    "dDurationMs": 1045,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II."
+    } ]
+  }, {
+    "tStartMs": 1053850,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Exhale, Extended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 1058360,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Awesome."
+    } ]
+  }, {
+    "tStartMs": 1058860,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Here, I offer you\nto find a bind."
+    } ]
+  }, {
+    "tStartMs": 1063700,
+    "dDurationMs": 6105,
+    "segs": [ {
+      "utf8": "So interlock, take your\nright hand behind your thigh"
+    } ]
+  }, {
+    "tStartMs": 1069805,
+    "dDurationMs": 2045,
+    "segs": [ {
+      "utf8": "and grab ahold."
+    } ]
+  }, {
+    "tStartMs": 1071850,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Awesome, beautiful."
+    } ]
+  }, {
+    "tStartMs": 1073680,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Now, step your left\nfoot to meet your right."
+    } ]
+  }, {
+    "tStartMs": 1078720,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And lift your right leg up, yes."
+    } ]
+  }, {
+    "tStartMs": 1085920,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "You got it, yes, Jen."
+    } ]
+  }, {
+    "tStartMs": 1088950,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Beautiful."
+    } ]
+  }, {
+    "tStartMs": 1090000,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Option to lengthen your leg."
+    } ]
+  }, {
+    "tStartMs": 1091470,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Hold for 4-- stay\nwhere you are--"
+    } ]
+  }, {
+    "tStartMs": 1095170,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "3-- chest up--"
+    } ]
+  }, {
+    "tStartMs": 1097500,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "2, and 1."
+    } ]
+  }, {
+    "tStartMs": 1098880,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Slowly lower down."
+    } ]
+  }, {
+    "tStartMs": 1100980,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II, step back."
+    } ]
+  }, {
+    "tStartMs": 1104640,
+    "dDurationMs": 3286,
+    "segs": [ {
+      "utf8": "Exhale, Extended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 1107926,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Inhale, Reverse Warrior."
+    } ]
+  }, {
+    "tStartMs": 1111450,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Exhale, take it down, High\nto Low Chaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 1115260,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 1118590,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 1122100,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "Inhale your left leg\nhigh, exhale, Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 1128490,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II,\nexhale, Half Moon."
+    } ]
+  }, {
+    "tStartMs": 1133740,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Lengthen through your left side."
+    } ]
+  }, {
+    "tStartMs": 1136000,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "Bring your torso onto your left\nthigh, walk your right foot in."
+    } ]
+  }, {
+    "tStartMs": 1140790,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Plant your hand a foot\naway from your pinky toe."
+    } ]
+  }, {
+    "tStartMs": 1144510,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Stack your hips."
+    } ]
+  }, {
+    "tStartMs": 1147030,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Start to stabilize\nyour standing leg,"
+    } ]
+  }, {
+    "tStartMs": 1149280,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "bring your foot in\nperipheral view."
+    } ]
+  }, {
+    "tStartMs": 1152250,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "Hold here for 4,\nfor 3, 2, and 1."
+    } ]
+  }, {
+    "tStartMs": 1158260,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II, exhale,\nExtended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 1163590,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Reach, find length\nand find your binds."
+    } ]
+  }, {
+    "tStartMs": 1167780,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "And take your right\nhand at your lower back."
+    } ]
+  }, {
+    "tStartMs": 1171690,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "If you find your fingertips\nunderneath your hamstring,"
+    } ]
+  }, {
+    "tStartMs": 1175950,
+    "dDurationMs": 1185,
+    "segs": [ {
+      "utf8": "keep your chest open."
+    } ]
+  }, {
+    "tStartMs": 1180230,
+    "dDurationMs": 7810,
+    "segs": [ {
+      "utf8": "And from here, step your right\nfoot forward to meet your left"
+    } ]
+  }, {
+    "tStartMs": 1188040,
+    "dDurationMs": 7370,
+    "segs": [ {
+      "utf8": "and start to ground through your\nright foot, lift up your left."
+    } ]
+  }, {
+    "tStartMs": 1195410,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Awesome."
+    } ]
+  }, {
+    "tStartMs": 1197390,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Use your core to stand\ntall, option to fully extend"
+    } ]
+  }, {
+    "tStartMs": 1201410,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "your leg."
+    } ]
+  }, {
+    "tStartMs": 1202700,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Hold and breathe for 4--"
+    } ]
+  }, {
+    "tStartMs": 1206240,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "lift your chest-- 3, 2,\nand 1, slowly lower down."
+    } ]
+  }, {
+    "tStartMs": 1213080,
+    "dDurationMs": 7860,
+    "segs": [ {
+      "utf8": "Inhale, Warrior II, exhale\nExtended Side Angle."
+    } ]
+  }, {
+    "tStartMs": 1220940,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Inhale, Reverse\nWarrior, exhale High"
+    } ]
+  }, {
+    "tStartMs": 1225780,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "to Low Chaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 1229100,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog,\nexhale Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 1234800,
+    "dDurationMs": 6450,
+    "segs": [ {
+      "utf8": "Inhale, gaze forward,\nexhale, have a seat"
+    } ]
+  }, {
+    "tStartMs": 1241250,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "at the top of your mat."
+    } ]
+  }, {
+    "tStartMs": 1243830,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "How's everyone doing?"
+    } ]
+  }, {
+    "tStartMs": 1246220,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Good, awesome."
+    } ]
+  }, {
+    "tStartMs": 1248400,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "Take a sip of water if you\nneed and it is time for core."
+    } ]
+  }, {
+    "tStartMs": 1253710,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "So lie flat onto your\nback for Eagle Sit-ups."
+    } ]
+  }, {
+    "tStartMs": 1258130,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "Bring your right arm under\nand take your right leg"
+    } ]
+  }, {
+    "tStartMs": 1261720,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "over your left."
+    } ]
+  }, {
+    "tStartMs": 1271830,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "Exhale, squeeze in,\ninhale, lengthen."
+    } ]
+  }, {
+    "tStartMs": 1277680,
+    "dDurationMs": 8190,
+    "segs": [ {
+      "utf8": "So more so, elbows\nto your knees, rather"
+    } ]
+  }, {
+    "tStartMs": 1285870,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "bend your knees to your\nelbows to bring efficiency"
+    } ]
+  }, {
+    "tStartMs": 1290640,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "to this core exercise."
+    } ]
+  }, {
+    "tStartMs": 1293550,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Squeeze."
+    } ]
+  }, {
+    "tStartMs": 1295950,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Each time, feel\nyour core fire up."
+    } ]
+  }, {
+    "tStartMs": 1308090,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "8 counts strong, let's do it."
+    } ]
+  }, {
+    "tStartMs": 1310070,
+    "dDurationMs": 13300,
+    "segs": [ {
+      "utf8": "8, 7, 6, 5, 4, 3--"
+    } ]
+  }, {
+    "tStartMs": 1323370,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "left side in 2, and 1."
+    } ]
+  }, {
+    "tStartMs": 1327270,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Left side, bring\nyour left arm under,"
+    } ]
+  }, {
+    "tStartMs": 1330630,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "left leg over, full focus\non exhale, squeeze, inhale,"
+    } ]
+  }, {
+    "tStartMs": 1337170,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "lengthen."
+    } ]
+  }, {
+    "tStartMs": 1338670,
+    "dDurationMs": 5151,
+    "segs": [ {
+      "utf8": "Fingertips tap big toe touch\nit for full range of motion."
+    } ]
+  }, {
+    "tStartMs": 1343821,
+    "dDurationMs": 3969,
+    "segs": [ {
+      "utf8": "So tap your foot down."
+    } ]
+  }, {
+    "tStartMs": 1347790,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "When you lengthen, inhale."
+    } ]
+  }, {
+    "tStartMs": 1349330,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "All the way, down, yeah."
+    } ]
+  }, {
+    "tStartMs": 1350360,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Exhale, squeeze, gorgeous."
+    } ]
+  }, {
+    "tStartMs": 1353300,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Tap and squeeze."
+    } ]
+  }, {
+    "tStartMs": 1357950,
+    "dDurationMs": 725,
+    "segs": [ {
+      "utf8": "Keep it moving."
+    } ]
+  }, {
+    "tStartMs": 1362750,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Now, bring awareness\nto complacency."
+    } ]
+  }, {
+    "tStartMs": 1365000,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "If you got comfortable,\nonly way to get stronger"
+    } ]
+  }, {
+    "tStartMs": 1367720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "is to get uncomfortable\nfor this eight count."
+    } ]
+  }, {
+    "tStartMs": 1370120,
+    "dDurationMs": 18840,
+    "segs": [ {
+      "utf8": "Lift higher for 8, 7, 6, 5, 4,\n3, 2, and 1, long body stretch."
+    } ]
+  }, {
+    "tStartMs": 1388960,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Extend your arms overhead,\nextend your legs, and breathe."
+    } ]
+  }, {
+    "tStartMs": 1400246,
+    "dDurationMs": 1424,
+    "segs": [ {
+      "utf8": "Awesome."
+    } ]
+  }, {
+    "tStartMs": 1401670,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Take one more breath here."
+    } ]
+  }, {
+    "tStartMs": 1404110,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "And then Yogi Bicycles."
+    } ]
+  }, {
+    "tStartMs": 1406960,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "Interlace your hands at your\nneck or the base of your head."
+    } ]
+  }, {
+    "tStartMs": 1412170,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1413110,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Bring your legs 90 degrees."
+    } ]
+  }, {
+    "tStartMs": 1417100,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "And take your right\nelbow to your left knee,"
+    } ]
+  }, {
+    "tStartMs": 1419810,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "extend your right leg."
+    } ]
+  }, {
+    "tStartMs": 1421280,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "Yes, so elbow to knee, then\ncenter, and then, yes, reach."
+    } ]
+  }, {
+    "tStartMs": 1426670,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "Center is your inhale,\nexhale to twist."
+    } ]
+  }, {
+    "tStartMs": 1430890,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Twist."
+    } ]
+  }, {
+    "tStartMs": 1432030,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "You got it."
+    } ]
+  }, {
+    "tStartMs": 1433440,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Bent legs or straight."
+    } ]
+  }, {
+    "tStartMs": 1435480,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Twist."
+    } ]
+  }, {
+    "tStartMs": 1437220,
+    "dDurationMs": 8950,
+    "segs": [ {
+      "utf8": "You're here for 8, 7, 6, 5--"
+    } ]
+  }, {
+    "tStartMs": 1446170,
+    "dDurationMs": 8670,
+    "segs": [ {
+      "utf8": "singles in four-- no center\nin 3, 2, singles in one."
+    } ]
+  }, {
+    "tStartMs": 1454840,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Let's go."
+    } ]
+  }, {
+    "tStartMs": 1456260,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "Left, right, left, right."
+    } ]
+  }, {
+    "tStartMs": 1460330,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Exaggerate your twist."
+    } ]
+  }, {
+    "tStartMs": 1463980,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "You got it, I hear you."
+    } ]
+  }, {
+    "tStartMs": 1465370,
+    "dDurationMs": 8310,
+    "segs": [ {
+      "utf8": "8, 7, 6, 5, 4, 3, 2, and 1."
+    } ]
+  }, {
+    "tStartMs": 1473680,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Hug your knees in\ntoward your chest."
+    } ]
+  }, {
+    "tStartMs": 1476550,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Great job."
+    } ]
+  }, {
+    "tStartMs": 1477190,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Rock and roll forward and back."
+    } ]
+  }, {
+    "tStartMs": 1478930,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "Find your way to a Boat Pose."
+    } ]
+  }, {
+    "tStartMs": 1482660,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "There's a few options\nfor your Boat."
+    } ]
+  }, {
+    "tStartMs": 1486300,
+    "dDurationMs": 1815,
+    "segs": [ {
+      "utf8": "You can bring your\nheels off of your mat."
+    } ]
+  }, {
+    "tStartMs": 1488115,
+    "dDurationMs": 2265,
+    "segs": [ {
+      "utf8": "Most important, keep\nyour chest lifted"
+    } ]
+  }, {
+    "tStartMs": 1490380,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "to keep the integrity\nof your spine."
+    } ]
+  }, {
+    "tStartMs": 1493000,
+    "dDurationMs": 2827,
+    "segs": [ {
+      "utf8": "Take your legs up."
+    } ]
+  }, {
+    "tStartMs": 1495827,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "If you're ready to\nbalance, bring your hands"
+    } ]
+  }, {
+    "tStartMs": 1497660,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "to heart center."
+    } ]
+  }, {
+    "tStartMs": 1499420,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "Take your legs high,\nhold, and breathe."
+    } ]
+  }, {
+    "tStartMs": 1507690,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Wherever you are is\nwhere you need to be."
+    } ]
+  }, {
+    "tStartMs": 1510660,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Most important to keep\nyour chest lifted."
+    } ]
+  }, {
+    "tStartMs": 1513520,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Keep your face relaxed."
+    } ]
+  }, {
+    "tStartMs": 1515820,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Find your breath."
+    } ]
+  }, {
+    "tStartMs": 1516720,
+    "dDurationMs": 15240,
+    "segs": [ {
+      "utf8": "You're here for 8, 7, 6,\n5, 4, 3, 2, and 1, release."
+    } ]
+  }, {
+    "tStartMs": 1531960,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "Criss-cross applesauce\nwith your legs."
+    } ]
+  }, {
+    "tStartMs": 1534190,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Step or jump back to your\nChaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 1538930,
+    "dDurationMs": 8670,
+    "segs": [ {
+      "utf8": "Inhale Upward Facing Dog,\nexhale Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 1547600,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Inhale your right leg\nhigh, exhale Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 1552400,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Bring your right foot in\nbetween your hands, pause."
+    } ]
+  }, {
+    "tStartMs": 1557050,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Inhale, Crescent Lunge."
+    } ]
+  }, {
+    "tStartMs": 1558370,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Reach out, rise up."
+    } ]
+  }, {
+    "tStartMs": 1561380,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Find your breath."
+    } ]
+  }, {
+    "tStartMs": 1563800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Check that your knee is\nstacked over your ankle."
+    } ]
+  }, {
+    "tStartMs": 1566600,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Take your right hip\nback, left hip forward."
+    } ]
+  }, {
+    "tStartMs": 1570250,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Notice if there is an\narch in your lower back,"
+    } ]
+  }, {
+    "tStartMs": 1572560,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "bring your torso\ntall and center,"
+    } ]
+  }, {
+    "tStartMs": 1574270,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "drag your navel in,\nlift your chest."
+    } ]
+  }, {
+    "tStartMs": 1576950,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "Continue to kick\nthrough your left heel."
+    } ]
+  }, {
+    "tStartMs": 1581930,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Take an inhale."
+    } ]
+  }, {
+    "tStartMs": 1584450,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Exhale, Revolved\nCrescent to your right."
+    } ]
+  }, {
+    "tStartMs": 1587780,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Bring your hands to center\nand take your left elbow"
+    } ]
+  }, {
+    "tStartMs": 1590560,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "anywhere in between\nyour knee and your hip."
+    } ]
+  }, {
+    "tStartMs": 1595250,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Find your breath."
+    } ]
+  }, {
+    "tStartMs": 1597790,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Continue to keep the\nintensity in your legs"
+    } ]
+  }, {
+    "tStartMs": 1601320,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "by kicking through\nyour left heel"
+    } ]
+  }, {
+    "tStartMs": 1603490,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "and squaring your\nright hip back."
+    } ]
+  }, {
+    "tStartMs": 1606880,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Bring your palms to heart\ncenter, thumbs at your sternum."
+    } ]
+  }, {
+    "tStartMs": 1610660,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Bring awareness to\nyour lower back."
+    } ]
+  }, {
+    "tStartMs": 1612850,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Start to get long from your\nlower back through your crown."
+    } ]
+  }, {
+    "tStartMs": 1616650,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Take an inhale, drag\nyour navel to spine."
+    } ]
+  }, {
+    "tStartMs": 1620420,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Exhale, twist even\ndeeper towards the right."
+    } ]
+  }, {
+    "tStartMs": 1627482,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Take another inhale."
+    } ]
+  }, {
+    "tStartMs": 1630820,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Exhale, Runner's Lunge."
+    } ]
+  }, {
+    "tStartMs": 1632160,
+    "dDurationMs": 6970,
+    "segs": [ {
+      "utf8": "Place your hands on the\ninside of your right foot."
+    } ]
+  }, {
+    "tStartMs": 1639130,
+    "dDurationMs": 4642,
+    "segs": [ {
+      "utf8": "Place your right foot to\nthe very edge of your mat."
+    } ]
+  }, {
+    "tStartMs": 1643772,
+    "dDurationMs": 1884,
+    "segs": [ {
+      "utf8": "Awesome."
+    } ]
+  }, {
+    "tStartMs": 1645656,
+    "dDurationMs": 5544,
+    "segs": [ {
+      "utf8": "Now, check again that your\nknee is stacked over your ankle"
+    } ]
+  }, {
+    "tStartMs": 1651200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and bring your right knee\nto graze your right arm."
+    } ]
+  }, {
+    "tStartMs": 1655520,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Pull your leg in."
+    } ]
+  }, {
+    "tStartMs": 1657780,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Start to settle your\nhips a little closer down"
+    } ]
+  }, {
+    "tStartMs": 1660740,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "towards your mat and\nextend your chest forward."
+    } ]
+  }, {
+    "tStartMs": 1665630,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "To get deeper into this\nstretch, bring your arms"
+    } ]
+  }, {
+    "tStartMs": 1669540,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "closer toward your mat."
+    } ]
+  }, {
+    "tStartMs": 1670710,
+    "dDurationMs": 7660,
+    "segs": [ {
+      "utf8": "So, a slight bend or bring\nyour arms to your forearms."
+    } ]
+  }, {
+    "tStartMs": 1678370,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Keep shooting your\nchest forward."
+    } ]
+  }, {
+    "tStartMs": 1683605,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Breathe."
+    } ]
+  }, {
+    "tStartMs": 1690050,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "One more breath, one more\nsettle, one more release."
+    } ]
+  }, {
+    "tStartMs": 1698330,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Inhale, shoot your\nheart forward."
+    } ]
+  }, {
+    "tStartMs": 1701200,
+    "dDurationMs": 1785,
+    "segs": [ {
+      "utf8": "Exhale, Plank position."
+    } ]
+  }, {
+    "tStartMs": 1707690,
+    "dDurationMs": 5475,
+    "segs": [ {
+      "utf8": "Take an inhale in your\nPlank, hold on the exhale."
+    } ]
+  }, {
+    "tStartMs": 1715800,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Inhale, Side Plank\nto your right."
+    } ]
+  }, {
+    "tStartMs": 1717920,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Plant your left palm down, reach\nyour right arm straight up."
+    } ]
+  }, {
+    "tStartMs": 1723360,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Check in with your stance."
+    } ]
+  }, {
+    "tStartMs": 1725510,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "And I see some\nmodifications, awesome."
+    } ]
+  }, {
+    "tStartMs": 1729260,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "Wherever you are, stack your\nhips on top of one another."
+    } ]
+  }, {
+    "tStartMs": 1733830,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Keep your core nice\nand tight, spine long."
+    } ]
+  }, {
+    "tStartMs": 1738030,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Extend through your\nright fingertips."
+    } ]
+  }, {
+    "tStartMs": 1741570,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Hold for 4, for 3--"
+    } ]
+  }, {
+    "tStartMs": 1746580,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "reach higher-- 2,\ninhale, exhale."
+    } ]
+  }, {
+    "tStartMs": 1751220,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Take it down, High to\nLow Chaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 1754670,
+    "dDurationMs": 5295,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog,\nexhale Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 1762680,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "Inhale your left leg\nhigh, exhale, Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 1769580,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "Inhale, Crescent Lunge,\nreach out, rise up."
+    } ]
+  }, {
+    "tStartMs": 1774330,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "Same deal here, settle\nlow in your stance,"
+    } ]
+  }, {
+    "tStartMs": 1778670,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "kick through your right heel,\nsend your right quad up."
+    } ]
+  }, {
+    "tStartMs": 1782600,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Pull your left hip back."
+    } ]
+  }, {
+    "tStartMs": 1785370,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Bring your right foot\nforward, drag your navel in,"
+    } ]
+  }, {
+    "tStartMs": 1788270,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "lower ribs in, lift your chest."
+    } ]
+  }, {
+    "tStartMs": 1791470,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Take an inhale, reach, hold\non your exhale, sit deeper."
+    } ]
+  }, {
+    "tStartMs": 1799760,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Inhale, lengthen, exhale,\nRevolved Crescent."
+    } ]
+  }, {
+    "tStartMs": 1803990,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Hands to heart center."
+    } ]
+  }, {
+    "tStartMs": 1805100,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Twist to your left side."
+    } ]
+  }, {
+    "tStartMs": 1807860,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Hook your right elbow\nanywhere in between your knee"
+    } ]
+  }, {
+    "tStartMs": 1810950,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "and your hip."
+    } ]
+  }, {
+    "tStartMs": 1813440,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So many lines of energy here."
+    } ]
+  }, {
+    "tStartMs": 1815570,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Continue to kick back,\nlengthen your heart forward"
+    } ]
+  }, {
+    "tStartMs": 1819320,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "through your crown, press\nyour palms at heart center,"
+    } ]
+  }, {
+    "tStartMs": 1822650,
+    "dDurationMs": 1185,
+    "segs": [ {
+      "utf8": "thumb against your sternum."
+    } ]
+  }, {
+    "tStartMs": 1826760,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "Take an inhale pull your\nnavel toward your spine."
+    } ]
+  }, {
+    "tStartMs": 1829950,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Lengthen your spine."
+    } ]
+  }, {
+    "tStartMs": 1832680,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Exhale, ring out your\ntorso one more time."
+    } ]
+  }, {
+    "tStartMs": 1835880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Get the full twist."
+    } ]
+  }, {
+    "tStartMs": 1839480,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Take another inhale."
+    } ]
+  }, {
+    "tStartMs": 1842610,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "Exhale, Runners Lunge,\nbring your hands"
+    } ]
+  }, {
+    "tStartMs": 1844670,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "on the inside of your left foot."
+    } ]
+  }, {
+    "tStartMs": 1848690,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Walk your left foot out."
+    } ]
+  }, {
+    "tStartMs": 1851270,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "And, again, check\nin that your knee"
+    } ]
+  }, {
+    "tStartMs": 1853340,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "is right on top of your ankle\nto protect your knee joint."
+    } ]
+  }, {
+    "tStartMs": 1857030,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "And then pull your knee closer\ntowards your left arm, yes."
+    } ]
+  }, {
+    "tStartMs": 1862100,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Shoot your chest forward."
+    } ]
+  }, {
+    "tStartMs": 1865000,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Start to settle your\nhips a little deeper."
+    } ]
+  }, {
+    "tStartMs": 1867540,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Keep your chin off your chest\nfor an efficient breath,"
+    } ]
+  }, {
+    "tStartMs": 1870720,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "an efficient release."
+    } ]
+  }, {
+    "tStartMs": 1873300,
+    "dDurationMs": 2965,
+    "segs": [ {
+      "utf8": "Settle in, ground down, breathe."
+    } ]
+  }, {
+    "tStartMs": 1881870,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "If you want a little more,\nhop into your variations,"
+    } ]
+  }, {
+    "tStartMs": 1884120,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "slightly bend your elbows\nor bring your forearms"
+    } ]
+  }, {
+    "tStartMs": 1889070,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "onto your mat."
+    } ]
+  }, {
+    "tStartMs": 1893250,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Continue to extend\nthrough your chest."
+    } ]
+  }, {
+    "tStartMs": 1901130,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Inhale, gaze forward."
+    } ]
+  }, {
+    "tStartMs": 1903830,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Exhale, Plank position,\nstep your left leg back."
+    } ]
+  }, {
+    "tStartMs": 1910980,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Inhale, Side Plank to your left."
+    } ]
+  }, {
+    "tStartMs": 1914900,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Place your right palm down,\nextend through your left arm,"
+    } ]
+  }, {
+    "tStartMs": 1918350,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "find your breath."
+    } ]
+  }, {
+    "tStartMs": 1920720,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "Whether your knee is planted or\nboth legs are fully extended,"
+    } ]
+  }, {
+    "tStartMs": 1925570,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "stack your hips on\ntop of one another."
+    } ]
+  }, {
+    "tStartMs": 1928530,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "Keep your core tight,\nkeep your spine long."
+    } ]
+  }, {
+    "tStartMs": 1933280,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Firmly press through\nyour palm and lift"
+    } ]
+  }, {
+    "tStartMs": 1936130,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "through your left fingertips."
+    } ]
+  }, {
+    "tStartMs": 1938970,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "Hold here for 4, for 3, for\n2, inhale, reach higher."
+    } ]
+  }, {
+    "tStartMs": 1946490,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Exhale, High to Low\nChaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 1950110,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 1953620,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 1957680,
+    "dDurationMs": 3643,
+    "segs": [ {
+      "utf8": "Take a deep inhale, and exhale."
+    } ]
+  }, {
+    "tStartMs": 1964060,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "One more time, deep\ninhale, and exhale."
+    } ]
+  }, {
+    "tStartMs": 1970120,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "Inhale, gaze forward, exhale,\ntravel to the top of your mat."
+    } ]
+  }, {
+    "tStartMs": 1976220,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Inhale, Chair Pose, reach up."
+    } ]
+  }, {
+    "tStartMs": 1981310,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Exhale, Prayer Twist to your\nright, hands at heart center."
+    } ]
+  }, {
+    "tStartMs": 1984850,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Twist and bring your\nleft elbow, cross over"
+    } ]
+  }, {
+    "tStartMs": 1988360,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "between your knee and your hip."
+    } ]
+  }, {
+    "tStartMs": 1990740,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Now, bring your focus\ndown to your feet, again."
+    } ]
+  }, {
+    "tStartMs": 1993500,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "Check that they are parallel,\nthat they are visible, then"
+    } ]
+  }, {
+    "tStartMs": 1996970,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "send both of your shins back."
+    } ]
+  }, {
+    "tStartMs": 1999760,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Check that your knees are\nparallel towards one another."
+    } ]
+  }, {
+    "tStartMs": 2002130,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "If they are not, send\nyour left hip back."
+    } ]
+  }, {
+    "tStartMs": 2009640,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Settle your glutes\nlower than your heart."
+    } ]
+  }, {
+    "tStartMs": 2012770,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Press through your palms,\nthumbs against your sternum."
+    } ]
+  }, {
+    "tStartMs": 2016600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Sit a little deeper."
+    } ]
+  }, {
+    "tStartMs": 2019960,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Inhale, twist on your exhale."
+    } ]
+  }, {
+    "tStartMs": 2028010,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Inhale, lengthen,\nexhale, Gorilla Pose."
+    } ]
+  }, {
+    "tStartMs": 2032600,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Release your fingertips onto\nyour mat, find your breath,"
+    } ]
+  }, {
+    "tStartMs": 2035570,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and take your feet hip\nwidth distance apart."
+    } ]
+  }, {
+    "tStartMs": 2038850,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "Bend your knees immensely\nand take all of your fingers,"
+    } ]
+  }, {
+    "tStartMs": 2042920,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "including your thumbs,\nunderneath your feet."
+    } ]
+  }, {
+    "tStartMs": 2046790,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Drape your chest\nover your thighs."
+    } ]
+  }, {
+    "tStartMs": 2049380,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "Feel your chest and\nthigh connect then"
+    } ]
+  }, {
+    "tStartMs": 2052699,
+    "dDurationMs": 5671,
+    "segs": [ {
+      "utf8": "start to use your biceps to\npull the crown of your head"
+    } ]
+  }, {
+    "tStartMs": 2058370,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "to the tops of your feet."
+    } ]
+  }, {
+    "tStartMs": 2059960,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "At the same time, send your\nthighs back, sitz bones up,"
+    } ]
+  }, {
+    "tStartMs": 2064460,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "rather than take your\nknees back to straighten"
+    } ]
+  }, {
+    "tStartMs": 2067010,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "the back of your legs."
+    } ]
+  }, {
+    "tStartMs": 2069320,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Feel the stretch in\nthe back of your legs,"
+    } ]
+  }, {
+    "tStartMs": 2073340,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "feel the length in your spine."
+    } ]
+  }, {
+    "tStartMs": 2076870,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "Take one more pull, shoulders\naway from your ears,"
+    } ]
+  }, {
+    "tStartMs": 2080820,
+    "dDurationMs": 2129,
+    "segs": [ {
+      "utf8": "and then release."
+    } ]
+  }, {
+    "tStartMs": 2082949,
+    "dDurationMs": 7031,
+    "segs": [ {
+      "utf8": "Inhale, Halfway, exhale, High\nto Low Chaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 2089980,
+    "dDurationMs": 5583,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog,\nexhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 2099400,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Inhale your right leg high, flex\nyour foot, square your hips."
+    } ]
+  }, {
+    "tStartMs": 2104680,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Exhale, Low Lunge, sweep your\nfoot in between your hands."
+    } ]
+  }, {
+    "tStartMs": 2108810,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Now, plant your left foot\ndown, Inhale Warrior I,"
+    } ]
+  }, {
+    "tStartMs": 2113170,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "reach out, rise tall."
+    } ]
+  }, {
+    "tStartMs": 2115930,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "So, shorter stance then your\nWarrior II to get your hips"
+    } ]
+  }, {
+    "tStartMs": 2120520,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "squared and aligned to\nthe front of your mat."
+    } ]
+  }, {
+    "tStartMs": 2124720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Bend, bend, bend your front\nknee, don't be afraid."
+    } ]
+  }, {
+    "tStartMs": 2127840,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "And then re-adjust by\nslightly taking your knee"
+    } ]
+  }, {
+    "tStartMs": 2131770,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "to a straighter position\nand bringing your pelvis"
+    } ]
+  }, {
+    "tStartMs": 2135070,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "to a neutral place."
+    } ]
+  }, {
+    "tStartMs": 2136980,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "So, drop your tailbone, lift\nyour chest, and then re-bend,"
+    } ]
+  }, {
+    "tStartMs": 2141490,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "keeping that action."
+    } ]
+  }, {
+    "tStartMs": 2143760,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "Pull your lower ribs in, lift\nyour torso up to the sky,"
+    } ]
+  }, {
+    "tStartMs": 2148780,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "take another inhale."
+    } ]
+  }, {
+    "tStartMs": 2151270,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Sit deeper on your exhale."
+    } ]
+  }, {
+    "tStartMs": 2155630,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Inhale, reach your\nfingertips up."
+    } ]
+  }, {
+    "tStartMs": 2158450,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Exhale, find a bind\nat your lower back."
+    } ]
+  }, {
+    "tStartMs": 2160970,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Interlock at your lumbar\nspine, inhale chest expansion."
+    } ]
+  }, {
+    "tStartMs": 2165890,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Open your chest\ncollarbone to collarbone,"
+    } ]
+  }, {
+    "tStartMs": 2169340,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "exhale, Humble Warrior."
+    } ]
+  }, {
+    "tStartMs": 2171680,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Bring your torso on the\ninside of your right knee."
+    } ]
+  }, {
+    "tStartMs": 2180280,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Continue to keep\nyour hips squared"
+    } ]
+  }, {
+    "tStartMs": 2183000,
+    "dDurationMs": 6550,
+    "segs": [ {
+      "utf8": "and then drop your head,\nrelax your neck and throat."
+    } ]
+  }, {
+    "tStartMs": 2189550,
+    "dDurationMs": 6610,
+    "segs": [ {
+      "utf8": "Breathe, continue to press\ninto your entire left foot."
+    } ]
+  }, {
+    "tStartMs": 2196160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Reach your arms straight back,\nover head, shoulders away."
+    } ]
+  }, {
+    "tStartMs": 2200640,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Take one more breath."
+    } ]
+  }, {
+    "tStartMs": 2205250,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "And release your fingertips."
+    } ]
+  }, {
+    "tStartMs": 2207200,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "Inhale, Warrior I,\nreach out, rise up."
+    } ]
+  }, {
+    "tStartMs": 2212110,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "Exhale, Warrior II."
+    } ]
+  }, {
+    "tStartMs": 2213770,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "So you're nice and warm, here."
+    } ]
+  }, {
+    "tStartMs": 2216390,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Should be the lowest,\nmost amazing-est--"
+    } ]
+  }, {
+    "tStartMs": 2220090,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "that's a word--"
+    } ]
+  }, {
+    "tStartMs": 2221140,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Warrior II."
+    } ]
+  }, {
+    "tStartMs": 2222250,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Get low, reach out,\nstrong warriors."
+    } ]
+  }, {
+    "tStartMs": 2226030,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Inhale, straighten\nyour right leg."
+    } ]
+  }, {
+    "tStartMs": 2230440,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "Exhale, Triangle-- Trikonasana--\nreach out, first find length,"
+    } ]
+  }, {
+    "tStartMs": 2236610,
+    "dDurationMs": 1985,
+    "segs": [ {
+      "utf8": "and then release your right arm."
+    } ]
+  }, {
+    "tStartMs": 2238595,
+    "dDurationMs": 5185,
+    "segs": [ {
+      "utf8": "Moving into a variation to get\nyour left body to side stretch."
+    } ]
+  }, {
+    "tStartMs": 2243780,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "So, sweep your arm over--"
+    } ]
+  }, {
+    "tStartMs": 2246100,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "yup-- overhead, feel the\nstretch at your side body."
+    } ]
+  }, {
+    "tStartMs": 2252210,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "Continue to strengthen, and\nstraighten both of your legs."
+    } ]
+  }, {
+    "tStartMs": 2257340,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Beautiful, continue to reach."
+    } ]
+  }, {
+    "tStartMs": 2269190,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Take one more breath,\nreach even further."
+    } ]
+  }, {
+    "tStartMs": 2274790,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Then inhale, rise to a\nstanding position, arms"
+    } ]
+  }, {
+    "tStartMs": 2277940,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "out to a T. Pigeon\ntoe your feet,"
+    } ]
+  }, {
+    "tStartMs": 2282880,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "inhale, puff up your chest,\nexhale, Forward Leg Intense"
+    } ]
+  }, {
+    "tStartMs": 2288140,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Stretch."
+    } ]
+  }, {
+    "tStartMs": 2289370,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Actually, Wide Legged Stretch."
+    } ]
+  }, {
+    "tStartMs": 2291770,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So, hinge out your hips,\ngrab ahold of your legs,"
+    } ]
+  }, {
+    "tStartMs": 2295490,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "outside arches of your\nfeet or your heels,"
+    } ]
+  }, {
+    "tStartMs": 2298730,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "in that order of flexibility."
+    } ]
+  }, {
+    "tStartMs": 2301760,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Stamp both of your feet\nin toward your mat,"
+    } ]
+  }, {
+    "tStartMs": 2304970,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "squeeze your inner thighs\nand lift your sitz bones up"
+    } ]
+  }, {
+    "tStartMs": 2307310,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "at the same time."
+    } ]
+  }, {
+    "tStartMs": 2308930,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "So, stamp your feet."
+    } ]
+  }, {
+    "tStartMs": 2310340,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Inner thighs squeeze,\nlift your sitz bones"
+    } ]
+  }, {
+    "tStartMs": 2313580,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "and start to fold at your hips."
+    } ]
+  }, {
+    "tStartMs": 2318250,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Then take your\nelbows at your shins"
+    } ]
+  }, {
+    "tStartMs": 2321950,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "and pull your forehead, rather\nthan the crown of your head,"
+    } ]
+  }, {
+    "tStartMs": 2325240,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "to your mat."
+    } ]
+  }, {
+    "tStartMs": 2331320,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Take one more deep breath."
+    } ]
+  }, {
+    "tStartMs": 2337689,
+    "dDurationMs": 1781,
+    "segs": [ {
+      "utf8": "And inhale, rise tall."
+    } ]
+  }, {
+    "tStartMs": 2342510,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Exhale, Warrior II to\nthe front of your mat."
+    } ]
+  }, {
+    "tStartMs": 2348640,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Inhale, Reverse Warrior,\nlengthen, exhale,"
+    } ]
+  }, {
+    "tStartMs": 2353270,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "High to Low\nChaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 2358110,
+    "dDurationMs": 7710,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog,\nexhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 2365820,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Take a moment to bring awareness\nto the right side of your body."
+    } ]
+  }, {
+    "tStartMs": 2373070,
+    "dDurationMs": 7300,
+    "segs": [ {
+      "utf8": "Then inhale your left leg\nhigh, exhale, Low Lunge."
+    } ]
+  }, {
+    "tStartMs": 2380370,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "Plant your right foot down,\ninhale, Warrior I, reach out,"
+    } ]
+  }, {
+    "tStartMs": 2384760,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "rise up."
+    } ]
+  }, {
+    "tStartMs": 2386780,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Find your breath."
+    } ]
+  }, {
+    "tStartMs": 2388780,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Bend."
+    } ]
+  }, {
+    "tStartMs": 2391280,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Bend your knee but then check\nin with your lower back."
+    } ]
+  }, {
+    "tStartMs": 2394400,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "Straighten and then bring your\npelvis to neutral, glutes down."
+    } ]
+  }, {
+    "tStartMs": 2400430,
+    "dDurationMs": 6870,
+    "segs": [ {
+      "utf8": "Lift your chest then re-bend\nand adjust accordingly."
+    } ]
+  }, {
+    "tStartMs": 2407300,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Continue to square your hips."
+    } ]
+  }, {
+    "tStartMs": 2410090,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Continue to pull\nyour lower ribs in,"
+    } ]
+  }, {
+    "tStartMs": 2412430,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "extend up through your chest,\ninhale, hold on your exhale."
+    } ]
+  }, {
+    "tStartMs": 2421760,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Inhale, sit low, reach high."
+    } ]
+  }, {
+    "tStartMs": 2424900,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Exhale, interlace your\nhands at your lumbar spine."
+    } ]
+  }, {
+    "tStartMs": 2428410,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Interlock."
+    } ]
+  }, {
+    "tStartMs": 2430540,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Inhale, chest\nexpansion, open up."
+    } ]
+  }, {
+    "tStartMs": 2434950,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Exhale, Humble Warrior,\nbring your torso"
+    } ]
+  }, {
+    "tStartMs": 2437650,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "on the inside of your left leg."
+    } ]
+  }, {
+    "tStartMs": 2440610,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Breathe."
+    } ]
+  }, {
+    "tStartMs": 2444750,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "Continue to place weight\ninto your entire right foot."
+    } ]
+  }, {
+    "tStartMs": 2450090,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Continue to square."
+    } ]
+  }, {
+    "tStartMs": 2451170,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "So, left hip back,\nright hip foreword."
+    } ]
+  }, {
+    "tStartMs": 2454870,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Resist your shoulder\nat your knee."
+    } ]
+  }, {
+    "tStartMs": 2458770,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "Relax your head and soften\nyour throat and your knack."
+    } ]
+  }, {
+    "tStartMs": 2464192,
+    "dDurationMs": 708,
+    "segs": [ {
+      "utf8": "Find your breath."
+    } ]
+  }, {
+    "tStartMs": 2467600,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "From here, if you have a\nbind, reach your arms back"
+    } ]
+  }, {
+    "tStartMs": 2470970,
+    "dDurationMs": 3945,
+    "segs": [ {
+      "utf8": "and overhead, shoulders\naway from your ears."
+    } ]
+  }, {
+    "tStartMs": 2474915,
+    "dDurationMs": 875,
+    "segs": [ {
+      "utf8": "Take one more breath."
+    } ]
+  }, {
+    "tStartMs": 2480250,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "And release your fingertips."
+    } ]
+  }, {
+    "tStartMs": 2483140,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "Inhale, Warrior I. Powerful\nWarrior I. Rise up,"
+    } ]
+  }, {
+    "tStartMs": 2488970,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "exhale, Warrior II."
+    } ]
+  }, {
+    "tStartMs": 2492290,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "This Warrior II nice and strong."
+    } ]
+  }, {
+    "tStartMs": 2495450,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Stronger than the other side\nbecause you get the opportunity"
+    } ]
+  }, {
+    "tStartMs": 2498570,
+    "dDurationMs": 952,
+    "segs": [ {
+      "utf8": "to take it there."
+    } ]
+  }, {
+    "tStartMs": 2499522,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Sit a little deeper."
+    } ]
+  }, {
+    "tStartMs": 2503160,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Inhale, straighten\nyour left leg."
+    } ]
+  }, {
+    "tStartMs": 2506340,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Exhale, Triangle Pose--\nTrikonasana-- reach, reach,"
+    } ]
+  }, {
+    "tStartMs": 2509570,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "reach, and then release."
+    } ]
+  }, {
+    "tStartMs": 2515880,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Awesome, so come straight\ninto your variation."
+    } ]
+  }, {
+    "tStartMs": 2520070,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Bring your right arm\nover at your ear,"
+    } ]
+  }, {
+    "tStartMs": 2523880,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "lengthen through your side body."
+    } ]
+  }, {
+    "tStartMs": 2527060,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Both legs strong and straight."
+    } ]
+  }, {
+    "tStartMs": 2531310,
+    "dDurationMs": 1355,
+    "segs": [ {
+      "utf8": "Feel the length you're creating."
+    } ]
+  }, {
+    "tStartMs": 2536637,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Take another breath."
+    } ]
+  }, {
+    "tStartMs": 2542310,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Then inhale, rise up center,\narms to a T position."
+    } ]
+  }, {
+    "tStartMs": 2548920,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "Exhale, Wide Legged Stretch,\npigeon toe, and fold."
+    } ]
+  }, {
+    "tStartMs": 2554180,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "If you had a wide stance\nat your first round,"
+    } ]
+  }, {
+    "tStartMs": 2556630,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "shorten your stance to\ntarget different areas"
+    } ]
+  }, {
+    "tStartMs": 2559780,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "of your hamstrings."
+    } ]
+  }, {
+    "tStartMs": 2562810,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Shorter stance for\na deeper stretch."
+    } ]
+  }, {
+    "tStartMs": 2566370,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Stamp your feet into your mat."
+    } ]
+  }, {
+    "tStartMs": 2569340,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Pull your abductors\ntowards one another,"
+    } ]
+  }, {
+    "tStartMs": 2572610,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "lengthen your sitz bones\nup towards the sky."
+    } ]
+  }, {
+    "tStartMs": 2576740,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Dig your elbows at your shins."
+    } ]
+  }, {
+    "tStartMs": 2580180,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Wherever you are, pull your\nforehand down toward your mat."
+    } ]
+  }, {
+    "tStartMs": 2584800,
+    "dDurationMs": 4665,
+    "segs": [ {
+      "utf8": "Breathe, fold, stretch."
+    } ]
+  }, {
+    "tStartMs": 2595224,
+    "dDurationMs": 2226,
+    "segs": [ {
+      "utf8": "You're going to take your\narms out to the sides."
+    } ]
+  }, {
+    "tStartMs": 2597450,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Inhale, slowly rise up."
+    } ]
+  }, {
+    "tStartMs": 2601130,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Exhale, Warrior II to\nthe front of your mat."
+    } ]
+  }, {
+    "tStartMs": 2605650,
+    "dDurationMs": 6630,
+    "segs": [ {
+      "utf8": "Inhale, Reverse Warrior,\nexhale, take it down High"
+    } ]
+  }, {
+    "tStartMs": 2612280,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "to Low Chaturanga Dandasana."
+    } ]
+  }, {
+    "tStartMs": 2615700,
+    "dDurationMs": 7660,
+    "segs": [ {
+      "utf8": "Inhale, Upward Facing Dog,\nexhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 2623360,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Take an inhale and exhale."
+    } ]
+  }, {
+    "tStartMs": 2627740,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "One more time, deep\ninhale and exhale."
+    } ]
+  }, {
+    "tStartMs": 2636760,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Inhale your right\nleg high, exhale,"
+    } ]
+  }, {
+    "tStartMs": 2641140,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Half Pigeon bring your right\nknee to your right wrist,"
+    } ]
+  }, {
+    "tStartMs": 2643660,
+    "dDurationMs": 2526,
+    "segs": [ {
+      "utf8": "extend through your left toes."
+    } ]
+  }, {
+    "tStartMs": 2646186,
+    "dDurationMs": 1824,
+    "segs": [ {
+      "utf8": "Now, gaze over your\nshoulder, check"
+    } ]
+  }, {
+    "tStartMs": 2648010,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "that your toes are\nreaching straight back,"
+    } ]
+  }, {
+    "tStartMs": 2650580,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "and reach them\nback even further."
+    } ]
+  }, {
+    "tStartMs": 2652540,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Square your hips,\nsquare your chest,"
+    } ]
+  }, {
+    "tStartMs": 2656070,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "press through your fingertips."
+    } ]
+  }, {
+    "tStartMs": 2657500,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "Inhale, lift up, exhale,\nlift up and over."
+    } ]
+  }, {
+    "tStartMs": 2662650,
+    "dDurationMs": 4135,
+    "segs": [ {
+      "utf8": "Lower your torso down\nonto your mat and breathe."
+    } ]
+  }, {
+    "tStartMs": 2671880,
+    "dDurationMs": 1185,
+    "segs": [ {
+      "utf8": "Start to settle in."
+    } ]
+  }, {
+    "tStartMs": 2688550,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "Once you get comfortable,\ninvite discomfort."
+    } ]
+  }, {
+    "tStartMs": 2694280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Lean into the intensity so you\ncan find a new way to release."
+    } ]
+  }, {
+    "tStartMs": 2702390,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "Deep inhales."
+    } ]
+  }, {
+    "tStartMs": 2706730,
+    "dDurationMs": 1515,
+    "segs": [ {
+      "utf8": "Complete exhales."
+    } ]
+  }, {
+    "tStartMs": 2718880,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Press through your\npalms, lift your torso."
+    } ]
+  }, {
+    "tStartMs": 2721390,
+    "dDurationMs": 7290,
+    "segs": [ {
+      "utf8": "Inhale, Three Legged Dog,\nexhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 2731260,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "Inhale your left leg\nhigh, exhale, Half Pigeon,"
+    } ]
+  }, {
+    "tStartMs": 2735610,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "bring your left knee\nto your left wrist,"
+    } ]
+  }, {
+    "tStartMs": 2737950,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "extend through your right leg."
+    } ]
+  }, {
+    "tStartMs": 2740120,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Gaze over your shoulder,\ncheck back, reach back,"
+    } ]
+  }, {
+    "tStartMs": 2743830,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "then readjust at center, square\nyour hips, square your chest."
+    } ]
+  }, {
+    "tStartMs": 2747970,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Lift up, inhale,\nexhale, up and over."
+    } ]
+  }, {
+    "tStartMs": 2753010,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Reach, find length."
+    } ]
+  }, {
+    "tStartMs": 2755560,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Moving forward and back\nto create space at center."
+    } ]
+  }, {
+    "tStartMs": 2777490,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "This is a great opportunity\nto check in with your breath."
+    } ]
+  }, {
+    "tStartMs": 2781720,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Allow it to travel\nthroughout your body"
+    } ]
+  }, {
+    "tStartMs": 2784950,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "to check in where you're\nholding any extra tension."
+    } ]
+  }, {
+    "tStartMs": 2795150,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Breathe."
+    } ]
+  }, {
+    "tStartMs": 2797100,
+    "dDurationMs": 605,
+    "segs": [ {
+      "utf8": "Deep inhales."
+    } ]
+  }, {
+    "tStartMs": 2800880,
+    "dDurationMs": 1665,
+    "segs": [ {
+      "utf8": "Complete exhales."
+    } ]
+  }, {
+    "tStartMs": 2812610,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Press through your palms."
+    } ]
+  }, {
+    "tStartMs": 2815190,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "Rise up, inhale, Three Legged\nDog, sweep your left leg high,"
+    } ]
+  }, {
+    "tStartMs": 2820560,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "exhale, Downward Facing Dog."
+    } ]
+  }, {
+    "tStartMs": 2822090,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "Inhale, come into\na Plank position,"
+    } ]
+  }, {
+    "tStartMs": 2829170,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "exhale with control, lower all\nthe way down onto your mat."
+    } ]
+  }, {
+    "tStartMs": 2833290,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Inhale, Cobra Pose."
+    } ]
+  }, {
+    "tStartMs": 2838750,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Zip up your legs,\npress into all 10 toes,"
+    } ]
+  }, {
+    "tStartMs": 2842390,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "dig your arms at your sides."
+    } ]
+  }, {
+    "tStartMs": 2845590,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Inhale, peel your head and\nchest up off of your mat."
+    } ]
+  }, {
+    "tStartMs": 2848660,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2850610,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Now, press your feet\nso deep into your mat"
+    } ]
+  }, {
+    "tStartMs": 2852680,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "that your legs\nnaturally fire up."
+    } ]
+  }, {
+    "tStartMs": 2856430,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Pull your chest through your\nshoulders, use your lower back."
+    } ]
+  }, {
+    "tStartMs": 2859380,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Inhale, rise up one more time."
+    } ]
+  }, {
+    "tStartMs": 2861780,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Exhale, release."
+    } ]
+  }, {
+    "tStartMs": 2863930,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Bring your arms\nalongside of your torso,"
+    } ]
+  }, {
+    "tStartMs": 2865880,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "turn your head to the right."
+    } ]
+  }, {
+    "tStartMs": 2868230,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Take a deep inhale and exhale."
+    } ]
+  }, {
+    "tStartMs": 2877340,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Awesome."
+    } ]
+  }, {
+    "tStartMs": 2880670,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "You can take another Cobra\nor come into Floor Bow."
+    } ]
+  }, {
+    "tStartMs": 2885500,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Bring your head to center."
+    } ]
+  }, {
+    "tStartMs": 2888950,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Floor Bow, grab\nahold of your feet."
+    } ]
+  }, {
+    "tStartMs": 2892760,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "So, bend your knees,\ngrab your feet,"
+    } ]
+  }, {
+    "tStartMs": 2898100,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "and start to lengthen\nyour toes overhead."
+    } ]
+  }, {
+    "tStartMs": 2901590,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Peel your head and chest\nup off of your mat."
+    } ]
+  }, {
+    "tStartMs": 2904500,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "Beautiful, knees, thighs,\nrise up off of your mat."
+    } ]
+  }, {
+    "tStartMs": 2907910,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Take your gaze up,\nlift your chest up,"
+    } ]
+  }, {
+    "tStartMs": 2911630,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "come up one more time."
+    } ]
+  }, {
+    "tStartMs": 2918430,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "And then lower down,\nrelease your legs."
+    } ]
+  }, {
+    "tStartMs": 2924680,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "Turn your head to the left."
+    } ]
+  }, {
+    "tStartMs": 2927510,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Get a second round of massage."
+    } ]
+  }, {
+    "tStartMs": 2931390,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Deep inhale and exhale."
+    } ]
+  }, {
+    "tStartMs": 2942490,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Bring your head to center."
+    } ]
+  }, {
+    "tStartMs": 2944690,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Come onto your knees\nfor your Camel Pose."
+    } ]
+  }, {
+    "tStartMs": 2951410,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "Awesome pose right here, yes!"
+    } ]
+  }, {
+    "tStartMs": 2954340,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So, place your hands at\nthe smalls of your back"
+    } ]
+  }, {
+    "tStartMs": 2957940,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "and check in with your hips."
+    } ]
+  }, {
+    "tStartMs": 2959360,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "Check that your hips are\nright on top of your knees,"
+    } ]
+  }, {
+    "tStartMs": 2963410,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "not ahead or behind."
+    } ]
+  }, {
+    "tStartMs": 2965690,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Slightly squeeze\nyour shoulder blades,"
+    } ]
+  }, {
+    "tStartMs": 2967550,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "for your elbows\ntowards one another,"
+    } ]
+  }, {
+    "tStartMs": 2969840,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "and take your gaze back."
+    } ]
+  }, {
+    "tStartMs": 2971560,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "So your back, then,\ncan stay here."
+    } ]
+  }, {
+    "tStartMs": 2974780,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Or, if you can\nsee the back wall,"
+    } ]
+  }, {
+    "tStartMs": 2976950,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "take your right hand\nto cup your right heel."
+    } ]
+  }, {
+    "tStartMs": 2981050,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Take your left hand\nto cup your left heel."
+    } ]
+  }, {
+    "tStartMs": 2984610,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Everybody's jamming."
+    } ]
+  }, {
+    "tStartMs": 2986170,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Lift your chest-- ah,\nI see you Jen, awesome."
+    } ]
+  }, {
+    "tStartMs": 2989590,
+    "dDurationMs": 4752,
+    "segs": [ {
+      "utf8": "From here, lift your chest to\nget out of your lower back."
+    } ]
+  }, {
+    "tStartMs": 2994342,
+    "dDurationMs": 2038,
+    "segs": [ {
+      "utf8": "If you took ahold of\nyour heels, pull them"
+    } ]
+  }, {
+    "tStartMs": 2996380,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "up towards the sky for\na deeper back bend."
+    } ]
+  }, {
+    "tStartMs": 3000680,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Awesome."
+    } ]
+  }, {
+    "tStartMs": 3002480,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Now, to release,\nbring your hands back"
+    } ]
+  }, {
+    "tStartMs": 3004660,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "to the smalls of your back,\nsit tall in your stance,"
+    } ]
+  }, {
+    "tStartMs": 3010000,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "and then start to lower down."
+    } ]
+  }, {
+    "tStartMs": 3014810,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "Bring your hands onto your\nthighs, palms down to ground"
+    } ]
+  }, {
+    "tStartMs": 3019420,
+    "dDurationMs": 6510,
+    "segs": [ {
+      "utf8": "down, palms up to\nreceive a little energy."
+    } ]
+  }, {
+    "tStartMs": 3025930,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Take whatever you need\nand gently tuck your chin."
+    } ]
+  }, {
+    "tStartMs": 3029620,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Take an inhale and exhale."
+    } ]
+  }, {
+    "tStartMs": 3036340,
+    "dDurationMs": 7434,
+    "segs": [ {
+      "utf8": "One more time, deep\ninhale and exhale."
+    } ]
+  }, {
+    "tStartMs": 3043774,
+    "dDurationMs": 886,
+    "segs": [ {
+      "utf8": "Awesome."
+    } ]
+  }, {
+    "tStartMs": 3044660,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Sweep your legs on either side,\nbring them out in front of you"
+    } ]
+  }, {
+    "tStartMs": 3047870,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "for Bridge Pose."
+    } ]
+  }, {
+    "tStartMs": 3050210,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Put your feet\nparallel onto your mat"
+    } ]
+  }, {
+    "tStartMs": 3053000,
+    "dDurationMs": 3328,
+    "segs": [ {
+      "utf8": "and then start to lie\nyour back onto your mat."
+    } ]
+  }, {
+    "tStartMs": 3059680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "From here, Bridge Pose, peel\nyour glutes, lower back,"
+    } ]
+  }, {
+    "tStartMs": 3064000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "mid back, all the way up to\nyour shoulders, off of your mat."
+    } ]
+  }, {
+    "tStartMs": 3067600,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Lift up, rise through your feet."
+    } ]
+  }, {
+    "tStartMs": 3071860,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Lift your hips up\ntowards the sky."
+    } ]
+  }, {
+    "tStartMs": 3074420,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "Option for a bind, interlock\nyour hands underneath you."
+    } ]
+  }, {
+    "tStartMs": 3079310,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "If your hands are bound,\nroll your shoulders"
+    } ]
+  }, {
+    "tStartMs": 3081680,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "underneath your torso\nto expose your chest."
+    } ]
+  }, {
+    "tStartMs": 3085150,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Lift your hips one more\ntime, lift your chest."
+    } ]
+  }, {
+    "tStartMs": 3088050,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Chin off your chest,\nlift even higher."
+    } ]
+  }, {
+    "tStartMs": 3093290,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "And then exhale,\nslowly lower down."
+    } ]
+  }, {
+    "tStartMs": 3096020,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "So second round, option\nfor Bridge or Wheel."
+    } ]
+  }, {
+    "tStartMs": 3103090,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "All right, second round."
+    } ]
+  }, {
+    "tStartMs": 3104130,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "3, 2, 1, let's go."
+    } ]
+  }, {
+    "tStartMs": 3106180,
+    "dDurationMs": 2564,
+    "segs": [ {
+      "utf8": "Inhale, rise up."
+    } ]
+  }, {
+    "tStartMs": 3108744,
+    "dDurationMs": 2756,
+    "segs": [ {
+      "utf8": "Beautiful."
+    } ]
+  }, {
+    "tStartMs": 3111500,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Keep your feet pressing\nin toward your mat."
+    } ]
+  }, {
+    "tStartMs": 3114520,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Check that your knees don't\nsplay out to the sides."
+    } ]
+  }, {
+    "tStartMs": 3116890,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Retract, beautiful."
+    } ]
+  }, {
+    "tStartMs": 3120390,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "And take your weight towards\nthe back of your mat."
+    } ]
+  }, {
+    "tStartMs": 3122800,
+    "dDurationMs": 6260,
+    "segs": [ {
+      "utf8": "Hold here for 4,\nfor 3, for 2, and 1."
+    } ]
+  }, {
+    "tStartMs": 3129060,
+    "dDurationMs": 1455,
+    "segs": [ {
+      "utf8": "Slowly lower down."
+    } ]
+  }, {
+    "tStartMs": 3130515,
+    "dDurationMs": 3135,
+    "segs": [ {
+      "utf8": "Hug your knees in toward\nyour chest, gently"
+    } ]
+  }, {
+    "tStartMs": 3133650,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "rock from side to side."
+    } ]
+  }, {
+    "tStartMs": 3140752,
+    "dDurationMs": 2948,
+    "segs": [ {
+      "utf8": "Yes, rock and roll a few times."
+    } ]
+  }, {
+    "tStartMs": 3143700,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "And come into an upright\nseated position with your legs"
+    } ]
+  }, {
+    "tStartMs": 3147490,
+    "dDurationMs": 4215,
+    "segs": [ {
+      "utf8": "extended out in front of you."
+    } ]
+  }, {
+    "tStartMs": 3151705,
+    "dDurationMs": 1375,
+    "segs": [ {
+      "utf8": "Awesome."
+    } ]
+  }, {
+    "tStartMs": 3153080,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Inhale, lift your chest and\narms straight up, exhale,"
+    } ]
+  }, {
+    "tStartMs": 3156370,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Forward Leg Intense Stretch."
+    } ]
+  }, {
+    "tStartMs": 3158810,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Reach and grab ahold of your\nlegs, your feet, your toes"
+    } ]
+  }, {
+    "tStartMs": 3163520,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "and then find your breath."
+    } ]
+  }, {
+    "tStartMs": 3166710,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "Start to gently press both\nof your quadriceps down,"
+    } ]
+  }, {
+    "tStartMs": 3171200,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "decrease the space under\nboth of your knees."
+    } ]
+  }, {
+    "tStartMs": 3173300,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "You got it, yes!"
+    } ]
+  }, {
+    "tStartMs": 3175080,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Kick your heels\nand flex your toes."
+    } ]
+  }, {
+    "tStartMs": 3178150,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Shoulders away from the ears."
+    } ]
+  }, {
+    "tStartMs": 3179800,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "Ah, that's it."
+    } ]
+  }, {
+    "tStartMs": 3180780,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Drape your upper\nbody over your legs."
+    } ]
+  }, {
+    "tStartMs": 3183790,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Breathe."
+    } ]
+  }, {
+    "tStartMs": 3189750,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "One more breath."
+    } ]
+  }, {
+    "tStartMs": 3196890,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Inhale, slowly rise\nup, exhale, lower down,"
+    } ]
+  }, {
+    "tStartMs": 3201690,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "one vertebra at a time."
+    } ]
+  }, {
+    "tStartMs": 3203430,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "You'll feel, again,\nyour lower back,"
+    } ]
+  }, {
+    "tStartMs": 3207090,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "mid back, all the way\nto your upper back,"
+    } ]
+  }, {
+    "tStartMs": 3211530,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "and finally rest down."
+    } ]
+  }, {
+    "tStartMs": 3214430,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Happy Baby, bring your knees\nalongside of your torso,"
+    } ]
+  }, {
+    "tStartMs": 3219550,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "grab ahold of your feet."
+    } ]
+  }, {
+    "tStartMs": 3223570,
+    "dDurationMs": 4038,
+    "segs": [ {
+      "utf8": "Keep you lower back\ngrounded on your mat."
+    } ]
+  }, {
+    "tStartMs": 3227608,
+    "dDurationMs": 1982,
+    "segs": [ {
+      "utf8": "If your hands are\nat your feet, gently"
+    } ]
+  }, {
+    "tStartMs": 3229590,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "pressed the soles\nof your feet down"
+    } ]
+  }, {
+    "tStartMs": 3231960,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "allow gravity to assist\nyou to bring awareness"
+    } ]
+  }, {
+    "tStartMs": 3235950,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "to your entire spine."
+    } ]
+  }, {
+    "tStartMs": 3237600,
+    "dDurationMs": 4325,
+    "segs": [ {
+      "utf8": "Keep your shoulders down\nand slightly tuck your chin."
+    } ]
+  }, {
+    "tStartMs": 3241925,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Breathe."
+    } ]
+  }, {
+    "tStartMs": 3246630,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "In Supine Twist, on your right."
+    } ]
+  }, {
+    "tStartMs": 3249630,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Pull your right knee to\nyour right arm armpit,"
+    } ]
+  }, {
+    "tStartMs": 3253230,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "extend your left leg."
+    } ]
+  }, {
+    "tStartMs": 3255520,
+    "dDurationMs": 7470,
+    "segs": [ {
+      "utf8": "Take a deep inhale, exhale,\nSupine Twist to your left,"
+    } ]
+  }, {
+    "tStartMs": 3262990,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "extend to your right Breathe."
+    } ]
+  }, {
+    "tStartMs": 3272510,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Relax your entire body\nto deepen this stretch."
+    } ]
+  }, {
+    "tStartMs": 3284650,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Then bring your head to center."
+    } ]
+  }, {
+    "tStartMs": 3286970,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Pull your leg up to follow,\nswitch out your legs."
+    } ]
+  }, {
+    "tStartMs": 3290590,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Inhale your left knee\nto your left armpit,"
+    } ]
+  }, {
+    "tStartMs": 3294340,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "extend your right leg."
+    } ]
+  }, {
+    "tStartMs": 3297140,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "Inhale, squeeze in, exhale,\nSupine Twist to your right."
+    } ]
+  }, {
+    "tStartMs": 3307390,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "Again, feel for the\nthree points of contact--"
+    } ]
+  }, {
+    "tStartMs": 3310200,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "both shoulders and\nyour hip on your mat."
+    } ]
+  }, {
+    "tStartMs": 3326510,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Bring your head to center."
+    } ]
+  }, {
+    "tStartMs": 3329090,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "For full body flexion, hug your\nknees in toward your chest."
+    } ]
+  }, {
+    "tStartMs": 3332910,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Wrap your arms around your\nlegs, grab opposite elbows."
+    } ]
+  }, {
+    "tStartMs": 3337490,
+    "dDurationMs": 1725,
+    "segs": [ {
+      "utf8": "Kiss your floor head\ninto your knees."
+    } ]
+  }, {
+    "tStartMs": 3341720,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Hold and squeeze for 3--"
+    } ]
+  }, {
+    "tStartMs": 3345980,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "round deeper-- 2, and 1."
+    } ]
+  }, {
+    "tStartMs": 3352070,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "Final relaxation, Savasana."
+    } ]
+  }, {
+    "tStartMs": 3355560,
+    "dDurationMs": 2675,
+    "segs": [ {
+      "utf8": "Extend your legs,\nextend your arms."
+    } ]
+  }, {
+    "tStartMs": 3360780,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Allow your feet to\nsplay out to the sides,"
+    } ]
+  }, {
+    "tStartMs": 3364680,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "rest your arms\nalongside of your torso,"
+    } ]
+  }, {
+    "tStartMs": 3368370,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "provide just enough space to\nallow your lungs to expand"
+    } ]
+  }, {
+    "tStartMs": 3372660,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "freely on your inhalation."
+    } ]
+  }, {
+    "tStartMs": 3377530,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Take deep, complete exhalations."
+    } ]
+  }, {
+    "tStartMs": 3439700,
+    "dDurationMs": 3565,
+    "segs": [ {
+      "utf8": "Start to deepen your breath."
+    } ]
+  }, {
+    "tStartMs": 3447970,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "You're ready to welcome\nsensation back into your body."
+    } ]
+  }, {
+    "tStartMs": 3451720,
+    "dDurationMs": 4975,
+    "segs": [ {
+      "utf8": "Start to slowly wiggle your\nfingers, wiggle your toes."
+    } ]
+  }, {
+    "tStartMs": 3461500,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Take your arms overhead, start\nto lengthen from your shoulders"
+    } ]
+  }, {
+    "tStartMs": 3465210,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "through your fingertips,\nextend from your hips"
+    } ]
+  }, {
+    "tStartMs": 3468810,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "to the soles of your feet."
+    } ]
+  }, {
+    "tStartMs": 3471880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Lift your chest, arch your back."
+    } ]
+  }, {
+    "tStartMs": 3474520,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "Take one final deep stretch."
+    } ]
+  }, {
+    "tStartMs": 3478470,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Hug your knees in\ntoward your chest."
+    } ]
+  }, {
+    "tStartMs": 3482770,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Roll to either side."
+    } ]
+  }, {
+    "tStartMs": 3487640,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "As soon as you land,\ntake a deep inhale."
+    } ]
+  }, {
+    "tStartMs": 3493010,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Relax on your exhale."
+    } ]
+  }, {
+    "tStartMs": 3496860,
+    "dDurationMs": 1295,
+    "segs": [ {
+      "utf8": "One more time, deep inhale."
+    } ]
+  }, {
+    "tStartMs": 3501100,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Let go on your exhale."
+    } ]
+  }, {
+    "tStartMs": 3505562,
+    "dDurationMs": 2458,
+    "segs": [ {
+      "utf8": "When you're ready, come into\na comfortable seated position."
+    } ]
+  }, {
+    "tStartMs": 3512120,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Ground through your sitz\nbones, relax your knees down"
+    } ]
+  }, {
+    "tStartMs": 3515450,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "towards your mat\nand lift your chest."
+    } ]
+  }, {
+    "tStartMs": 3519390,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Thank you so much for\nallowing me to guide you."
+    } ]
+  }, {
+    "tStartMs": 3523190,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Namaste."
+    } ]
+  }, {
+    "tStartMs": 3525050,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Namaste."
+    } ]
+  }, {
+    "tStartMs": 3531400,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Namaste, everyone."
+    } ]
+  }, {
+    "tStartMs": 3533570,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "Yay!"
+    } ]
+  }, {
+    "tStartMs": 3534260,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "Great job."
+    } ]
+  }, {
+    "tStartMs": 3537540,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Thank you for joining us today."
+    } ]
+  }, {
+    "tStartMs": 3539160,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "See you next time."
+    } ]
+  } ]
+}
