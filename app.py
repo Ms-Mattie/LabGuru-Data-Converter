@@ -36,13 +36,10 @@ stored_frozen_on = st.text_input("Stored / Frozen On", help="This is the date th
 if uploaded_file is not None:
     # Read the CSV file into a pandas dataframe with utf-8-sig encoding
     df = pd.read_csv(uploaded_file, encoding='utf-8-sig')
-<<<<<<< HEAD
 
     # Print the column names in the uploaded file to confirm
     st.write("Columns in the uploaded file:")
     st.write(df.columns)
-=======
->>>>>>> 21129ea5b52121b1f50321fac6ad42d1319fa26f
 
     # Display the uploaded data at the top
     st.write("Uploaded Data:")
