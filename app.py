@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import re
 
-# Change the title to "LabGuru Data Converter"
+# Set the title
 st.title("LabGuru Data Converter")
 
-# Add updated instructions under the title
+# Add instructions under the title
 st.markdown("""
     **This app converts data from the MASTER_Freezer Inventory Excel document into the correct format for the LabGuru Stock Upload template.**
 
@@ -35,7 +35,11 @@ stored_frozen_on = st.text_input("Stored / Frozen On", help="This is the date th
 
 if uploaded_file is not None:
     # Read the CSV file into a pandas dataframe with utf-8-sig encoding
-    df = pd.read_csv(uploaded_file, encoding='utf-8-sig')  # Using utf-8-sig for better compatibility
+    df = pd.read_csv(uploaded_file, encoding='utf-8-sig')
+
+    # Print the column names in the uploaded file to confirm
+    st.write("Columns in the uploaded file:")
+    st.write(df.columns)
 
     # Display the uploaded data at the top
     st.write("Uploaded Data:")
@@ -44,15 +48,16 @@ if uploaded_file is not None:
     # Add 'Stock ID' column (blank for LIMS upload)
     df['Stock ID'] = ""
 
-    # Apply transformations across all rows explicitly
+    # Apply transformations across all rows explicitly using correct column mappings
     df['Stock name *'] = df['Label']  # Map Label to Stock name *
-    df['Stock owner'] = stock_owner  # Use Stock owner input from the app
+    df['Stock owner'] = stock_owner  # Map Stock owner from app input
     df['Stored / frozen on'] = stored_frozen_on  # Use Stored_frozen_on input from the app
     df['Stored / frozen by'] = stored_frozen_by  # Use Stored_frozen_by input from the app
     df['Stock position'] = df['Position']  # Map Position to Stock position
     df['Inventory collection *'] = inventory_collection  # Map Inventory Collection to Inventory collection *
     df['Inventory item name'] = inventory_item_name  # Map Inventory item name to Inventory item name
     df['Box name'] = df['Box Label']  # Map Box Label to Box name
+    df['Stock volume'] = df['Approx. Volume (uL)']  # Map Approx. Volume (uL) to Stock volume
 
     # Set the blank values for Weight units, Weight remarks, and others as needed
     df['Stock weight'] = ""
