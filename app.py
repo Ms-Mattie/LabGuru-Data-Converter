@@ -12,16 +12,16 @@ st.markdown("""
     **To use the tool:**
 
     - Complete the fields below, which will be included in the LabGuru upload.
-    - For clarity on the fields, hover your mouse over the question mark to the right of the entry field for additional information. 
+    - For clarity on the fields, hover your mouse over the question mark to the right of the entry field for additional information.
     - The box name and sample position in the LabGuru template will match the corresponding entry in the MASTER_Freezer Inventory.
-    - For uploading to LabGuru, copy/paste the transformed rows onto a newly downloaded Stock Upload Template. 
+    - For uploading to LabGuru, copy/paste the transformed rows onto a newly downloaded Stock Upload Template.
     - For issues or questions, please contact Mattie at mattie.goldberg@aoadx.com.
 """)
 
 # File upload widget
 uploaded_file = st.file_uploader("Upload your CSV file", type="csv")
 
-# User input fields for manual transformations with additional descriptions
+# User input fields for manual transformations
 stock_concentration = st.text_input("Stock Concentration (if applicable)", help="This is the concentration of the solution. If this is serum, leave this field blank.")
 concentration_units = st.text_input("Concentration Units (if applicable)", help="This refers to the concentration units of the solution. If this is serum, leave this field blank.")
 concentration_remarks = st.text_input("Concentration Remarks (if applicable)", help="If the sample was prepared in the lab, note who prepared it and based on what procedure.")
@@ -58,6 +58,7 @@ if uploaded_file is not None:
     df['Inventory item name'] = inventory_item_name  # Map Inventory item name to Inventory item name
     df['Box name'] = df['Box Label']  # Map Box Label to Box name
     df['Stock volume'] = df['Approx. Volume (uL)']  # Map Approx. Volume (uL) to Stock volume
+    df['Age'] = df['Age']  # Map Age from uploaded file
 
     # Set the blank values for Weight units, Weight remarks, and others as needed
     df['Stock weight'] = ""
