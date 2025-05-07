@@ -84,6 +84,9 @@ if uploaded_file is not None:
     # Set the blank values for Stock barcode, expiry date, and created at
     df['Stock barcode'] = ""
     df['Stock expiry date'] = ""
+    df['Stock owner'] = stock_owner  # User input for Stock Owner
+    df['Stored / Frozen By'] = stored_frozen_by  # User input for Stored / Frozen By
+    df['Stored / Frozen On'] = stored_frozen_on  # User input for Stored / Frozen On
     df['Created at'] = ""
 
     df['Box name'] = df['Box Label']  # Box name = Box Label
@@ -108,7 +111,8 @@ if uploaded_file is not None:
         'Stock description', 'Stock concentration', 'Concentration units', 
         'Concentration remarks', 'Stock volume', 'Volume units', 'Volume remarks', 
         'Stock weight', 'Weight units', 'Weight remarks', 'Stock units', 
-        'Stock count', 'Stock lot', 'Stock barcode', 'Stock expiry date', 
+        'Stock count', 'Stock lot', 'Stock barcode', 'Stock expiry date',
+	'Stock owner', 'Stored / Frozen By', 'Stored / Frozen On',
         'Created at', 'Box name', 'Box dimensions - # rows', 'Box dimensions - # columns', 
         'Box location in Rack - Cells', 'Stock position', 'Storage location', 
         'Inventory collection *', 'Inventory item name', 'Inventory item sysID'
