@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import re
 
 # Set the title
 st.title("LabGuru Data Converter")
@@ -36,15 +37,10 @@ if uploaded_file is not None:
     # Read the CSV file into a pandas dataframe with utf-8-sig encoding
     df = pd.read_csv(uploaded_file, encoding='utf-8-sig')
 
-    # Print the column names in the uploaded file to confirm
-    st.write("Columns in the uploaded file:")
-    st.write(df.columns.tolist())  # Convert column names to a list for clarity
+    # Add 'Stock ID' column (blank for LIMS upload)
+    df['Stock ID'] = ""
 
-    # Display the uploaded data at the top
-    st.write("Uploaded Data:")
-    st.dataframe(df)
-
-    # Extract and map only the relevant columns to the transformed output
+    # Apply transformations across all rows explicitly using correct column mappings
     df['Stock name *'] = df['Label']  # Map Label to Stock name *
     df['Stock owner'] = stock_owner  # Map Stock owner from app input
     df['Stored / frozen on'] = stored_frozen_on  # Use Stored_frozen_on input from the app
