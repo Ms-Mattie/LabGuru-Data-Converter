@@ -33,50 +33,96 @@ stock_owner = st.text_input("Stock Owner", help="This is the person responsible 
 stored_frozen_by = st.text_input("Stored / Frozen By", help="This is the person who prepared the sample. Write their full name as it is described as their LabGuru member.")
 stored_frozen_on = st.text_input("Stored / Frozen On", help="This is the date the sample was prepared. Use format YYYY-MM-DD.")
 
+
 if uploaded_file is not None:
     # Read the CSV file into a pandas dataframe with utf-8-sig encoding
-    df = pd.read_csv(uploaded_file, encoding='utf-8-sig')
+    df = pd.read_csv(uploaded_file, encoding='utf-8-sig')  # Using utf-8-sig for better compatibility
+
+    # Display the uploaded data at the top
+    st.write("Uploaded Data:")
+    st.dataframe(df)
 
     # Add 'Stock ID' column (blank for LIMS upload)
     df['Stock ID'] = ""
 
-    # Apply transformations across all rows explicitly using correct column mappings
-    df['Stock name *'] = df['Label']  # Map Label to Stock name *
-    df['Stock owner'] = stock_owner  # Map Stock owner from app input
-    df['Stored / frozen on'] = stored_frozen_on  # Use Stored_frozen_on input from the app
-    df['Stored / frozen by'] = stored_frozen_by  # Use Stored_frozen_by input from the app
-    df['Stock position'] = df['Position']  # Map Position to Stock position
-    df['Inventory collection *'] = inventory_collection  # Map Inventory Collection to Inventory collection *
-    df['Inventory item name'] = inventory_item_name  # Map Inventory item name to Inventory item name
-    df['Box name'] = df['Box Label']  # Map Box Label to Box name
-    df['Stock volume'] = df['Approx. Volume (uL)']  # Map Approx. Volume (uL) to Stock volume
+    # Apply transformations across all rows explicitly
+    df['Stock name *'] = df['Label']  # Stock name = Label
 
-    # Set the blank values for Weight units, Weight remarks, and others as needed
+    df['Privacy'] = "Public"  # Privacy = Public
+
+    df['Stock type'] = "Tube"  # Stock type = Tube
+
+    df['Stock color'] = "gray"  # Stock color = gray
+
+    # Concatenate 'Diagnosis', 'Histology', and 'Pathologic_Stage' for **every row**
+    # Fill NaN values with an empty string to avoid issues with concatenation
+    df['Stock description'] = df['Diagnosis'].fillna('') + " " + df['Histology'].fillna('') + " " + df['Pathologic_Stage'].fillna('')
+
+    df['Stock concentration'] = stock_concentration  # User input for stock concentration
+
+    df['Concentration units'] = concentration_units  # User input for concentration units
+
+    df['Concentration remarks'] = concentration_remarks  # User input for concentration remarks
+
+    df['Stock volume'] = df['Approx. Volume (uL)']  # Stock volume = Approx. Volume (uL)
+
+    df['Volume units'] = volume_units  # Volume units = user input
+
+    df['Volume remarks'] = st.text_input("Volume Remarks (if applicable)")  # User input for volume remarks
+
+    # Set the blank values for Stock weight, Weight units, and Weight remarks
     df['Stock weight'] = ""
     df['Weight units'] = ""
     df['Weight remarks'] = ""
 
-    # Additional columns (blank values)
+    df['Stock units'] = stock_units  # User input for stock units
+
     df['Stock count'] = "1"  # Stock count = 1
+
     df['Stock lot'] = st.text_input("Stock Lot (if applicable)")  # User input for stock lot
+
+    # Set the blank values for Stock barcode, expiry date, and created at
     df['Stock barcode'] = ""
     df['Stock expiry date'] = ""
     df['Created at'] = ""
 
-    # Ensure that the output includes the right columns for LabGuru
+    df['Box name'] = df['Box Label']  # Box name = Box Label
+
+    # Box dimensions and location will remain blank
+    df['Box dimensions - # rows'] = ""
+    df['Box dimensions - # columns'] = ""
+    df['Box location in Rack - Cells'] = ""
+
+    # Stock position: incrementing from 1 to 81 for each row
+    df['Stock position'] = range(1, len(df) + 1)
+
+    # Leave storage location and other fields blank as required
+    df['Storage location'] = ""
+    df['Inventory collection *'] = inventory_collection
+    df['Inventory item name'] = inventory_item_name
+    df['Inventory item sysID'] = ""
+
+    # **Column Filtering**: Ensure all LIMS-required columns are included, even if empty
     output_columns = [
-        'Stock ID', 'Stock name *', 'Privacy', 'Stock type', 'Stock color',
-        'Stock description', 'Stock concentration', 'Concentration units',
-        'Concentration remarks', 'Stock volume', 'Volume units', 'Volume remarks',
-        'Stock weight', 'Weight units', 'Weight remarks', 'Stock units',
-        'Stock count', 'Stock lot', 'Stock barcode', 'Stock expiry date',
-        'Created at', 'Box name', 'Box dimensions - # rows', 'Box dimensions - # columns',
-        'Box location in Rack - Cells', 'Stock position', 'Storage location',
+        'Stock ID', 'Stock name *', 'Privacy', 'Stock type', 'Stock color', 
+        'Stock description', 'Stock concentration', 'Concentration units', 
+        'Concentration remarks', 'Stock volume', 'Volume units', 'Volume remarks', 
+        'Stock weight', 'Weight units', 'Weight remarks', 'Stock units', 
+        'Stock count', 'Stock lot', 'Stock barcode', 'Stock expiry date', 
+        'Created at', 'Box name', 'Box dimensions - # rows', 'Box dimensions - # columns', 
+        'Box location in Rack - Cells', 'Stock position', 'Storage location', 
         'Inventory collection *', 'Inventory item name', 'Inventory item sysID'
     ]
 
-    # Ensure that the columns are in the correct order
+    # Ensure the column order is correct, and remove any additional columns
     df_output = df[output_columns]
+
+    # **Fix Encoding Issues**: Explicitly replace any invalid volume units (like ÅµL or ÂµL)
+    # Now we replace both ÅµL and any malformed unit
+    df_output['Volume units'] = df_output['Volume units'].apply(lambda x: re.sub(r'[^\x00-\x7F]+', 'µL', str(x)) if isinstance(x, str) else x)
+    
+    # Ensure there's only one "L" at the end of "µL"
+    df_output['Volume units'] = df_output['Volume units'].str.replace('µLL', 'µL', regex=False)
 
     # Display the transformed and filtered data
     st.write("Transformed Data:")
