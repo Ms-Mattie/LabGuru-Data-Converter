@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import re
 
 # Set the title
 st.title("LabGuru Data Converter")
@@ -39,23 +38,20 @@ if uploaded_file is not None:
 
     # Print the column names in the uploaded file to confirm
     st.write("Columns in the uploaded file:")
-    st.write(df.columns)
+    st.write(df.columns.tolist())  # Convert column names to a list for clarity
 
     # Display the uploaded data at the top
     st.write("Uploaded Data:")
     st.dataframe(df)
 
-    # Add 'Stock ID' column (blank for LIMS upload)
-    df['Stock ID'] = ""
-
-    # Apply transformations across all rows explicitly using correct column mappings
+    # Extract and map only the relevant columns to the transformed output
     df['Stock name *'] = df['Label']  # Map Label to Stock name *
-    df['Stock owner'] = stock_owner  # Use Stock owner input from the app
+    df['Stock owner'] = stock_owner  # Map Stock owner from app input
     df['Stored / frozen on'] = stored_frozen_on  # Use Stored_frozen_on input from the app
     df['Stored / frozen by'] = stored_frozen_by  # Use Stored_frozen_by input from the app
     df['Stock position'] = df['Position']  # Map Position to Stock position
-    df['Inventory collection *'] = inventory_collection  # Use Inventory Collection input from the app
-    df['Inventory item name'] = inventory_item_name  # Map Inventory Item Name to Inventory item name
+    df['Inventory collection *'] = inventory_collection  # Map Inventory Collection to Inventory collection *
+    df['Inventory item name'] = inventory_item_name  # Map Inventory item name to Inventory item name
     df['Box name'] = df['Box Label']  # Map Box Label to Box name
     df['Stock volume'] = df['Approx. Volume (uL)']  # Map Approx. Volume (uL) to Stock volume
 
